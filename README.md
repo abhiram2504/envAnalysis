@@ -2,32 +2,38 @@
 
 ## Introduction
 
-Clean and reliable water is essential for any community, and The Ohio State University is committed to maintaining the highest water quality standards. We propose an innovative initiative that focuses on detecting anomalies in water quality, drawing inspiration from the need for precise anomaly detection in Alameda County, California. Our project aims to identify deviations in water quality data, and by doing so, we can efficiently address these anomalies. This data-driven approach aligns with OSU's goal to reduce its carbon footprint by 25% by 2025, as it helps us identify areas where environmental factors may be contributing to anomalies.
+Clean and reliable water is essential for any community, and The Ohio State University (OSU) is committed to maintaining the highest water quality standards. Our innovative initiative focuses on detecting anomalies in water quality, drawing inspiration from similar efforts in Alameda County, California. By identifying deviations in water quality data, we can address anomalies efficiently, ensuring OSU's environmental goals are met. This data-driven approach aligns with OSU's commitment to reduce its carbon footprint by **25% by 2025**, as it helps identify areas where environmental factors may contribute to these anomalies.
 
 ## Background
 
-Alameda County, California, has provided valuable insights into the importance of identifying anomalies in water quality data as part of broader environmental efforts.
+Alameda County, California, has provided valuable insights into the importance of identifying anomalies in water quality data, particularly in the context of broader environmental efforts. This highlights the need for anomaly detection systems that can help maintain sustainability and ensure optimal resource use.
 
 ## Project Proposal for OSU
 
 ### Anomaly Detection and Carbon Footprint Reduction
 
-- **Data Integration:** Integrate data on water quality, air quality, waste management, and electricity usage to provide a comprehensive view of environmental conditions on campus.
+- **Data Integration:** Integrate water quality data with related datasets on air quality, waste management, and electricity usage. This provides a holistic view of environmental conditions on campus, allowing for more comprehensive analysis and anomaly detection.
 
-- **Anomaly Detection Model:** Develop a robust anomaly detection model that identifies deviations in water quality parameters, especially those potentially linked to increased carbon emissions.
+- **Anomaly Detection Model:** Develop and implement a robust anomaly detection model capable of identifying deviations in water quality parameters. Special focus will be placed on anomalies linked to environmental factors that may increase carbon emissions, helping us pinpoint sources contributing to OSU's carbon footprint.
 
-- **Response and Carbon Reduction:** When anomalies are detected, implement a rapid response protocol to address anomalies efficiently in order to reduce the carbon footprint by 25% by 2025.
+- **Response and Carbon Reduction:** Once anomalies are detected, a rapid response protocol will be triggered to efficiently address these deviations. This will help OSU work towards reducing its carbon footprint by **25% by 2025** through targeted interventions.
 
-### Sustainable Campus Practices
+### Encouraging Sustainable Campus Practices
 
-- **Emission Reduction Measures:** Implement targeted measures to reduce emissions from various campus activities that may contribute to anomalies in water quality data.
+- **Emission Reduction Measures:** Implement data-driven measures to reduce emissions from campus activities that may be contributing to anomalies in water quality data, such as inefficient energy use or waste management practices.
 
-- **Energy Efficiency:** Enhance energy efficiency across campus to minimize potential environmental factors impacting water quality and carbon emissions.
+- **Energy Efficiency:** Enhance energy efficiency across campus facilities, reducing potential environmental factors that impact water quality and contribute to carbon emissions.
 
-## Long-Term Commitment
+### Interactive Carbon Calculator
 
-This project represents a long-term commitment to maintaining water quality and efficiently addressing anomalies. The focus on anomaly detection aligns with OSU's commitment to reducing its carbon footprint by 25% by 2025, helping us achieve this sustainability goal.
+- **User Engagement:** Create an interactive carbon calculator tool that helps users track their personal or departmental carbon footprint. The tool will offer suggestions for sustainable habits such as reducing energy consumption, recycling, and lowering water waste.
+
+- **Real-Time Data Insights:** Present real-time data insights using engaging data visualizations, enabling users to easily understand their environmental impact and make informed decisions on improving sustainability.
+
+## Long-Term Commitment to Sustainability
+
+This project represents a long-term commitment to maintaining water quality and addressing anomalies efficiently. OSU’s focus on anomaly detection is in line with the broader goal of reducing its carbon footprint by **25% by 2025**. Our data-driven, sustainable approach will help OSU meet its environmental goals, setting a precedent for other institutions to follow.
 
 ## Conclusion
 
-By focusing on detecting anomalies in water quality data, we are taking a proactive and data-driven approach to maintain and improve environmental conditions on campus. With the current model we have on water quality, and the ones we are creating for air quality, waste management and electricity usage, we will be able to assist in reducing the carbon footprint, thereby addressing OSU's sustainability goals. By setting an example for other institutions and ensuring a safer and more environmentally friendly future, we can successfully identify, address, and prevent anomalies, contributing to a healthier and more sustainable environment for all.
+By focusing on detecting anomalies in water quality data, OSU is taking a proactive, data-driven approach to maintain and improve environmental conditions on campus. With the current water quality model, along with upcoming models for air quality, waste management, and electricity usage, OSU will reduce its carbon footprint and promote sustainable behavior. This initiative raises awareness about climate issues, encourages eco-friendly habits, and demonstrates leadership in sustainability. Together, we can build a healthier and more sustainable environment for all.
