@@ -72,28 +72,29 @@ class CarbonCalculator extends Component {
           </div>
         </div>
         <div className="input-section">
-          <div>
-            <label htmlFor="kWhInput" className="input-label">Value 1 (kWh):</label>
-            <input
-              type="number"
-              id="kWhInput"
-              value={this.state.value1}
-              onChange={(e) => this.setState({ value1: e.Thistarget.value })}
-              className="input-field"
-            />
-          </div>
-          <div>
-            <label htmlFor="wasteInput" className="input-label">Value 2 (Waste):</label>
-            <input
-              type="number"
-              id="wasteInput"
-              value={this.state.value2}
-              onChange={(e) => this.setState({ value2: e.target.value })}
-              className="input-field"
-            />
-          </div>
-          <button onClick={this.handleSubmit} className="calculate-button"> Calculate Emission </button>
+        <div>
+          <label htmlFor="kWhInput" className="input-label">Value 1 (kWh):</label>
+          <input
+            type="number"
+            id="kWhInput"
+            value={this.state.value1}
+            onChange={(e) => this.setState({ value1: e.target.value })} // Fixed typo here
+            className="input-field"
+          />
         </div>
+        <div>
+          <label htmlFor="wasteInput" className="input-label">Value 2 (Waste):</label>
+          <input
+            type="number"
+            id="wasteInput"
+            value={this.state.value2}
+            onChange={(e) => this.setState({ value2: e.target.value })}
+            className="input-field"
+          />
+        </div>
+        <button onClick={this.handleSubmit} className="calculate-button"> Calculate Emission </button>
+      </div>
+
 
         {this.state.resultVisible && (
           <div style={{fontSize: '20px', fontWeight: 'bold'}}>
