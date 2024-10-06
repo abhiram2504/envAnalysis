@@ -1,0 +1,2159 @@
+county_name,sample_date,parameter,result,reporting_limit,units,anomaly,potential_cause
+Alameda,07/19/1979 15:30,Total Dissolved Solids,845,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/14/1973 11:00,Total Dissolved Solids,573,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/18/1975 09:05,Total Dissolved Solids,544,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/22/1985 13:30,Total Dissolved Solids,509,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/28/1980 09:45,Total Dissolved Solids,533,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/14/1984 00:00,Total Dissolved Solids,586,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/26/1984 10:00,Total Dissolved Solids,604,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/25/1985 09:30,Total Dissolved Solids,1320,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/16/1974 11:55,Total Dissolved Solids,1290,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/16/1975 15:00,Total Dissolved Solids,2410,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/25/1985 10:45,Total Dissolved Solids,1690,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/09/1972 12:00,Total Dissolved Solids,857,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/02/1983 11:00,Total Dissolved Solids,1380,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/19/1985 11:30,Total Dissolved Solids,2260,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/15/1978 14:00,Total Dissolved Solids,1420,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/18/1975 13:00,Total Dissolved Solids,661,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/29/1985 13:20,Total Dissolved Solids,1360,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/07/1972 12:30,Total Dissolved Solids,381,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/02/1983 12:15,Total Dissolved Solids,629,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/19/1985 14:30,Total Dissolved Solids,591,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/25/1980 09:30,Total Dissolved Solids,469,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/18/1974 12:45,Total Dissolved Solids,376,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/22/1984 12:40,Total Dissolved Solids,483,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/18/1974 13:15,Total Dissolved Solids,420,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/19/1985 15:50,Total Dissolved Solids,412,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/07/1972 10:00,Total Dissolved Solids,397,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/01/1983 14:10,Total Dissolved Solids,443,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/19/1985 10:20,Total Dissolved Solids,447,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/14/1973 12:40,Total Dissolved Solids,490,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/19/1976 14:30,Total Dissolved Solids,373,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/26/1982 00:00,Total Dissolved Solids,854,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/08/1972 13:00,Total Dissolved Solids,738,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/22/1985 11:10,Total Dissolved Solids,531,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/20/1973 13:00,Total Dissolved Solids,469,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/10/1979 14:30,Total Dissolved Solids,514,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/10/1979 14:00,Total Dissolved Solids,458,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/10/1979 10:30,Total Dissolved Solids,687,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/22/1974 13:45,Total Dissolved Solids,480,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/26/1984 13:00,Total Dissolved Solids,544,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/22/1974 13:20,Total Dissolved Solids,858,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/11/1986 13:00,Total Dissolved Solids,559,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/11/1986 09:30,Total Dissolved Solids,599,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/12/1976 09:30,Total Dissolved Solids,797,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/26/1983 09:00,Total Dissolved Solids,513,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/25/1980 12:50,Total Dissolved Solids,523,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/10/1982 00:00,Total Dissolved Solids,440,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/11/1982 00:00,Total Dissolved Solids,551,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/05/1974 09:40,Total Dissolved Solids,748,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/11/1975 11:30,Total Dissolved Solids,370,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/22/1974 14:40,Total Dissolved Solids,395,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/25/1985 12:40,Total Dissolved Solids,358,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/30/1974 09:20,Total Dissolved Solids,667,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/10/1986 13:30,Total Dissolved Solids,487,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/08/1972 13:15,Total Dissolved Solids,545,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/26/1980 07:50,Total Dissolved Solids,325,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/22/1985 09:40,Total Dissolved Solids,506,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/20/1979 14:00,Total Dissolved Solids,344,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/20/1973 10:30,Total Dissolved Solids,406,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/04/1981 14:00,Total Dissolved Solids,418,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/30/1981 14:00,Total Dissolved Solids,596,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/20/1973 13:45,Total Dissolved Solids,352,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/26/1982 00:00,Total Dissolved Solids,320,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/08/1972 12:05,Total Dissolved Solids,358,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/24/1981 17:00,Total Dissolved Solids,519,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/03/1981 14:00,Total Dissolved Solids,500,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/26/1984 11:00,Total Dissolved Solids,474,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/30/1974 09:55,Total Dissolved Solids,450,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/20/1974 00:00,Total Dissolved Solids,282,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/09/1979 13:30,Total Dissolved Solids,488,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/07/1974 00:00,Total Dissolved Solids,477,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/03/1988 12:20,Total Dissolved Solids,520,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/07/1974 00:00,Total Dissolved Solids,478,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/11/1974 00:00,Total Dissolved Solids,467,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/30/1975 10:05,Total Dissolved Solids,380,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/03/1988 12:00,Total Dissolved Solids,468,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/24/1974 00:00,Total Dissolved Solids,516,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/11/1974 00:00,Total Dissolved Solids,556,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/24/1974 00:00,Total Dissolved Solids,449,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/03/1988 12:40,Total Dissolved Solids,591,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/24/1974 00:00,Total Dissolved Solids,434,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/03/1988 14:15,Total Dissolved Solids,504,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/09/1974 00:00,Total Dissolved Solids,421,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/09/1974 00:00,Total Dissolved Solids,463,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/08/1972 09:30,Total Dissolved Solids,477,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/19/1976 13:30,Total Dissolved Solids,555,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/04/1986 12:40,Total Dissolved Solids,537,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/26/1982 00:00,Total Dissolved Solids,478,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/08/1972 09:15,Total Dissolved Solids,374,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/07/1974 00:00,Total Dissolved Solids,460,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/03/1988 13:35,Total Dissolved Solids,472,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/09/1974 00:00,Total Dissolved Solids,464,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/16/1975 13:15,Total Dissolved Solids,482,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/03/1981 08:00,Total Dissolved Solids,349,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/07/1974 00:00,Total Dissolved Solids,370,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/16/1975 13:50,Total Dissolved Solids,476,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/24/1985 07:40,Total Dissolved Solids,472,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/10/1986 08:00,Total Dissolved Solids,658,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/27/1982 00:00,Total Dissolved Solids,298,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/08/1972 09:55,Total Dissolved Solids,279,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/30/1987 12:00,Total Dissolved Solids,542,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/13/1975 15:15,Total Dissolved Solids,564,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/24/1985 10:00,Total Dissolved Solids,684,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/04/1982 00:00,Total Dissolved Solids,1430,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/07/1972 14:45,Total Dissolved Solids,670,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/30/1987 13:30,Total Dissolved Solids,542,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/07/1972 15:30,Total Dissolved Solids,657,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/02/1983 09:00,Total Dissolved Solids,727,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/24/1985 13:30,Total Dissolved Solids,641,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/25/1986 10:50,Total Dissolved Solids,352,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/13/1979 10:30,Total Dissolved Solids,492,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/24/1985 15:20,Total Dissolved Solids,485,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/19/1974 13:35,Total Dissolved Solids,1580,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/23/1984 13:45,Total Dissolved Solids,1480,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/09/1971 12:30,Total Dissolved Solids,937,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/24/1983 12:00,Total Dissolved Solids,1020,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/24/1985 13:40,Total Dissolved Solids,1020,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/07/1972 14:00,Total Dissolved Solids,526,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/29/1985 10:50,Total Dissolved Solids,446,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/30/1987 10:20,Total Dissolved Solids,637,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/07/1972 14:30,Total Dissolved Solids,861,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/02/1983 14:30,Total Dissolved Solids,854,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/24/1985 08:45,Total Dissolved Solids,492,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/18/1974 15:30,Total Dissolved Solids,256,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/23/1984 08:50,Total Dissolved Solids,377,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/30/1987 14:40,Total Dissolved Solids,471,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/23/1984 10:45,Total Dissolved Solids,686,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/24/1985 11:20,Total Dissolved Solids,707,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/19/1974 13:05,Total Dissolved Solids,363,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/22/1971 12:00,Total Dissolved Solids,1230,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/25/1977 09:45,Total Dissolved Solids,600,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/01/1970 00:00,Total Dissolved Solids,892,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/16/1957 10:20,Total Dissolved Solids,446,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/04/1965 08:50,Total Dissolved Solids,348,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/06/1961 10:00,Total Dissolved Solids,443,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/07/1963 11:20,Total Dissolved Solids,503,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/07/1967 10:25,Total Dissolved Solids,420,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/09/1966 10:45,Total Dissolved Solids,351,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/10/1964 00:00,Total Dissolved Solids,378,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/15/1962 11:15,Total Dissolved Solids,388,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/03/1966 08:30,Total Dissolved Solids,411,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/05/1961 09:45,Total Dissolved Solids,509,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/06/1963 08:30,Total Dissolved Solids,412,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/07/1967 10:00,Total Dissolved Solids,324,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/08/1965 11:20,Total Dissolved Solids,468,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/12/1964 08:30,Total Dissolved Solids,430,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/14/1962 08:55,Total Dissolved Solids,411,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/28/1983 13:00,Total Dissolved Solids,439,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/16/1985 00:00,Total Dissolved Solids,500,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/21/1982 14:00,Total Dissolved Solids,425,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/27/1977 13:45,Total Dissolved Solids,567,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/04/1976 09:35,Total Dissolved Solids,391,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/02/1962 00:00,Total Dissolved Solids,431,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/02/1965 00:00,Total Dissolved Solids,374,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/04/1984 00:00,Total Dissolved Solids,392,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/05/1961 10:30,Total Dissolved Solids,471,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/13/1966 08:30,Total Dissolved Solids,361,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/15/1963 00:00,Total Dissolved Solids,436,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/17/1964 09:05,Total Dissolved Solids,309,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/20/1978 13:30,Total Dissolved Solids,498,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/22/1986 10:00,Total Dissolved Solids,495,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/01/1975 09:20,Total Dissolved Solids,429,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/04/1988 10:00,Total Dissolved Solids,429,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/03/1964 08:15,Total Dissolved Solids,365,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/05/1962 10:00,Total Dissolved Solids,371,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/05/1963 07:30,Total Dissolved Solids,390,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/07/1960 11:00,Total Dissolved Solids,451,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/07/1961 10:00,Total Dissolved Solids,451,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/07/1965 09:30,Total Dissolved Solids,335,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/13/1966 10:20,Total Dissolved Solids,410,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/28/1951 00:00,Total Dissolved Solids,407,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/20/1950 12:45,Total Dissolved Solids,573,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/08/1951 00:00,Total Dissolved Solids,520,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/20/1951 00:00,Total Dissolved Solids,500,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/06/1961 10:45,Total Dissolved Solids,402,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/07/1960 11:05,Total Dissolved Solids,406,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/07/1963 11:00,Total Dissolved Solids,391,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/15/1962 11:45,Total Dissolved Solids,406,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/16/1959 00:00,Total Dissolved Solids,374,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/19/1956 09:40,Total Dissolved Solids,446,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/16/1956 10:00,Total Dissolved Solids,439,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/01/1959 16:55,Total Dissolved Solids,409,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/05/1961 08:55,Total Dissolved Solids,411,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/06/1960 00:00,Total Dissolved Solids,382,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/06/1963 09:45,Total Dissolved Solids,423,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/14/1962 09:30,Total Dissolved Solids,418,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/21/1956 12:00,Total Dissolved Solids,439,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/28/1951 00:00,Total Dissolved Solids,464,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/05/1953 00:00,Total Dissolved Solids,431,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/10/1954 09:45,Total Dissolved Solids,444,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/05/1951 00:00,Total Dissolved Solids,477,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/06/1962 00:00,Total Dissolved Solids,431,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/21/1960 12:15,Total Dissolved Solids,387,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/05/1962 09:30,Total Dissolved Solids,421,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/07/1960 10:00,Total Dissolved Solids,392,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/07/1961 09:30,Total Dissolved Solids,409,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/11/1958 00:00,Total Dissolved Solids,367,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/16/1959 13:50,Total Dissolved Solids,395,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/07/1960 11:00,Total Dissolved Solids,527,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/16/1959 00:00,Total Dissolved Solids,387,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/19/1956 09:30,Total Dissolved Solids,484,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/01/1959 16:45,Total Dissolved Solids,427,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/06/1960 00:00,Total Dissolved Solids,314,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/14/1960 09:30,Total Dissolved Solids,561,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/21/1960 12:35,Total Dissolved Solids,1240,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/11/1950 00:00,Total Dissolved Solids,520,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/11/1958 00:00,Total Dissolved Solids,413,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/16/1959 13:40,Total Dissolved Solids,655,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/12/1964 09:00,Total Dissolved Solids,422,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/20/1951 00:00,Total Dissolved Solids,480,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/04/1965 07:15,Total Dissolved Solids,402,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/07/1967 09:40,Total Dissolved Solids,395,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/09/1966 09:40,Total Dissolved Solids,395,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/10/1964 00:00,Total Dissolved Solids,372,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/03/1966 08:50,Total Dissolved Solids,407,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/07/1967 09:30,Total Dissolved Solids,368,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/08/1965 11:30,Total Dissolved Solids,418,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/07/1969 00:00,Total Dissolved Solids,316,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/20/1980 11:04,Total Dissolved Solids,469,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/02/1965 00:00,Total Dissolved Solids,388,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/13/1966 09:00,Total Dissolved Solids,402,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/17/1964 09:30,Total Dissolved Solids,395,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/03/1964 08:50,Total Dissolved Solids,400,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/05/1963 08:30,Total Dissolved Solids,423,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/07/1965 10:00,Total Dissolved Solids,367,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/30/1963 00:00,Total Dissolved Solids,420,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/15/1985 00:00,Total Dissolved Solids,542,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/13/1974 09:50,Total Dissolved Solids,298,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/28/1951 00:00,Total Dissolved Solids,490,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/04/1984 09:45,Total Dissolved Solids,519,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/15/1965 00:00,Total Dissolved Solids,342,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/18/1972 10:30,Total Dissolved Solids,372,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/02/1964 15:20,Total Dissolved Solids,394,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/30/1963 00:00,Total Dissolved Solids,484,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/11/1971 00:00,Total Dissolved Solids,612,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/11/1971 00:00,Total Dissolved Solids,877,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/10/1971 00:00,Total Dissolved Solids,923,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/26/1982 11:15,Total Dissolved Solids,850,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/09/1970 00:00,Total Dissolved Solids,678,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/25/1977 10:40,Total Dissolved Solids,664,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/04/1984 10:00,Total Dissolved Solids,420,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/18/1973 10:10,Total Dissolved Solids,383,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/27/1983 10:25,Total Dissolved Solids,452,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/18/1972 11:20,Total Dissolved Solids,367,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/31/1987 13:00,Total Dissolved Solids,509,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/15/1974 11:15,Total Dissolved Solids,381,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/19/1978 14:00,Total Dissolved Solids,425,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/21/1978 09:15,Total Dissolved Solids,671,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/27/1981 12:00,Total Dissolved Solids,589,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/21/1980 11:24,Total Dissolved Solids,618,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/04/1971 00:00,Total Dissolved Solids,1300,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/15/1985 00:00,Total Dissolved Solids,657,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/15/1974 11:00,Total Dissolved Solids,749,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/19/1970 00:00,Total Dissolved Solids,577,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/18/1973 14:45,Total Dissolved Solids,814,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/02/1975 13:16,Total Dissolved Solids,296,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/21/1980 13:57,Total Dissolved Solids,711,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/18/1972 11:40,Total Dissolved Solids,434,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/18/1972 13:00,Total Dissolved Solids,357,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/02/1975 10:00,Total Dissolved Solids,288,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/21/1980 15:00,Total Dissolved Solids,460,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/31/1981 13:30,Total Dissolved Solids,589,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/12/1974 14:10,Total Dissolved Solids,410,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/04/1984 14:00,Total Dissolved Solids,430,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/26/1971 00:00,Total Dissolved Solids,9840,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/12/1974 14:30,Total Dissolved Solids,387,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/21/1980 14:15,Total Dissolved Solids,652,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/04/1968 11:00,Total Dissolved Solids,29300,1.0,mg/L at 180 °C,-1,Potential Concentrated Source or Data Error
+Alameda,06/04/1968 00:00,Total Dissolved Solids,1410,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/20/1980 10:32,Total Dissolved Solids,572,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/19/1973 08:45,Total Dissolved Solids,1210,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/19/1978 11:45,Total Dissolved Solids,580,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/15/1974 14:00,Total Dissolved Solids,6020,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/22/1982 11:10,Total Dissolved Solids,735,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/18/1972 14:45,Total Dissolved Solids,562,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/04/1968 13:15,Total Dissolved Solids,471,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/27/1981 14:30,Total Dissolved Solids,652,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/03/1968 17:30,Total Dissolved Solids,16100,1.0,mg/L at 180 °C,-1,Special Sampling Conditions or Treatment Plant Failure
+Alameda,06/03/1968 18:45,Total Dissolved Solids,1640,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/26/1971 00:00,Total Dissolved Solids,414,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/02/1975 13:48,Total Dissolved Solids,380,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/13/1979 13:30,Total Dissolved Solids,410,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/12/1974 15:20,Total Dissolved Solids,995,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/19/1978 10:45,Total Dissolved Solids,635,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/19/1972 13:10,Total Dissolved Solids,1960,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/25/1971 00:00,Total Dissolved Solids,301,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/27/1983 13:40,Total Dissolved Solids,364,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/29/1970 13:00,Total Dissolved Solids,324,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/25/1971 00:00,Total Dissolved Solids,249,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/28/1968 19:00,Total Dissolved Solids,29800,1.0,mg/L at 180 °C,-1,Potential Concentrated Source or Data Error
+Alameda,05/20/1968 17:00,Total Dissolved Solids,35500,1.0,mg/L at 180 °C,-1,Industrial Discharge or Data Error
+Alameda,05/20/1968 14:00,Total Dissolved Solids,39600,1.0,mg/L at 180 °C,-1,Industrial Discharge or Data Error
+Alameda,10/21/1970 00:00,Total Dissolved Solids,48300,1.0,mg/L at 180 °C,-1,Industrial Discharge or Data Error
+Alameda,09/12/1979 13:00,Total Dissolved Solids,265,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/30/1964 06:40,Total Dissolved Solids,152,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/28/1964 06:10,Total Dissolved Solids,202,1.0,mg/L at 180 °C,1,Normal
+Alameda,08/26/1964 06:15,Total Dissolved Solids,396,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/23/1964 00:00,Total Dissolved Solids,247,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/21/1964 06:15,Total Dissolved Solids,334,1.0,mg/L at 180 °C,1,Normal
+Alameda,01/05/1957 03:00,Total Dissolved Solids,370,1.0,mg/L at 180 °C,1,Normal
+Alameda,01/28/1958 09:45,Total Dissolved Solids,533,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/03/1958 02:40,Total Dissolved Solids,442,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/31/1957 11:00,Total Dissolved Solids,400,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/04/1957 11:00,Total Dissolved Solids,384,1.0,mg/L at 180 °C,1,Normal
+Alameda,11/02/1956 02:00,Total Dissolved Solids,393,1.0,mg/L at 180 °C,1,Normal
+Alameda,11/10/1956 03:00,Total Dissolved Solids,446,1.0,mg/L at 180 °C,1,Normal
+Alameda,11/16/1956 19:00,Total Dissolved Solids,440,1.0,mg/L at 180 °C,1,Normal
+Alameda,01/23/1992 10:55,Total Dissolved Solids,304,1.0,mg/L,1,Normal
+Alameda,01/24/1990 12:40,Total Dissolved Solids,505,1.0,mg/L,1,Normal
+Alameda,01/29/1991 14:50,Total Dissolved Solids,364,1.0,mg/L,1,Normal
+Alameda,04/20/1994 10:10,Total Dissolved Solids,503,1.0,mg/L,1,Normal
+Alameda,04/22/1992 09:50,Total Dissolved Solids,234,1.0,mg/L,1,Normal
+Alameda,04/25/1990 09:15,Total Dissolved Solids,272,1.0,mg/L,1,Normal
+Alameda,05/22/1991 12:17,Total Dissolved Solids,264,1.0,mg/L,1,Normal
+Alameda,07/19/1988 13:30,Total Dissolved Solids,570,1.0,mg/L,1,Normal
+Alameda,07/20/1994 11:02,Total Dissolved Solids,297,1.0,mg/L,1,Normal
+Alameda,07/22/1992 09:05,Total Dissolved Solids,419,1.0,mg/L,1,Normal
+Alameda,07/24/1991 09:50,Total Dissolved Solids,289,1.0,mg/L,1,Normal
+Alameda,07/25/1989 10:40,Total Dissolved Solids,380,1.0,mg/L,1,Normal
+Alameda,07/26/1990 10:55,Total Dissolved Solids,214,1.0,mg/L,1,Normal
+Alameda,08/19/1992 09:05,Total Dissolved Solids,482,1.0,mg/L,1,Normal
+Alameda,08/21/1991 09:56,Total Dissolved Solids,407,1.0,mg/L,1,Normal
+Alameda,08/22/1990 11:45,Total Dissolved Solids,222,1.0,mg/L,1,Normal
+Alameda,08/22/1990 12:15,Total Dissolved Solids,319,1.0,mg/L,1,Normal
+Alameda,10/07/1992 09:25,Total Dissolved Solids,374,1.0,mg/L,1,Normal
+Alameda,10/20/1993 10:13,Total Dissolved Solids,188,1.0,mg/L,1,Normal
+Alameda,10/23/1991 10:05,Total Dissolved Solids,263,1.0,mg/L,1,Normal
+Alameda,10/24/1990 11:40,Total Dissolved Solids,372,1.0,mg/L,1,Normal
+Alameda,01/25/2005 07:40,Total Dissolved Solids,1386,1.0,mg/L,1,Normal
+Alameda,01/25/2005 07:40,Total Dissolved Solids,1389,1.0,mg/L,1,Normal
+Alameda,01/17/2023 13:50,Total Dissolved Solids,188,2.5,mg/L,1,Normal
+Alameda,01/18/2022 13:05,Total Dissolved Solids,283,2.5,mg/L,1,Normal
+Alameda,01/19/2016 10:50,Total Dissolved Solids,322,1.0,mg/L,1,Normal
+Alameda,02/13/2012 12:30,Total Dissolved Solids,215,1.0,mg/L,1,Normal
+Alameda,02/15/2005 10:40,Total Dissolved Solids,209,1.0,mg/L,1,Normal
+Alameda,02/16/2000 10:45,Total Dissolved Solids,259,1.0,mg/L,1,Normal
+Alameda,02/16/2000 10:45,Total Dissolved Solids,260,1.0,mg/L,1,Normal
+Alameda,02/16/2016 10:40,Total Dissolved Solids,304,1.0,mg/L,1,Normal
+Alameda,02/18/1998 10:55,Total Dissolved Solids,172,1.0,mg/L,1,Normal
+Alameda,02/18/1998 12:34,Total Dissolved Solids,172,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/19/1997 10:35,Total Dissolved Solids,169,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/19/2008 10:45,Total Dissolved Solids,216,1.0,mg/L,1,Normal
+Alameda,02/19/2019 13:05,Total Dissolved Solids,189,1.0,mg/L,1,Normal
+Alameda,03/14/2006 10:56,Total Dissolved Solids,208,1.0,mg/L,1,Normal
+Alameda,03/15/2000 11:00,Total Dissolved Solids,210,1.0,mg/L,1,Normal
+Alameda,03/15/2005 11:20,Total Dissolved Solids,229,1.0,mg/L,1,Normal
+Alameda,03/15/2023 11:40,Total Dissolved Solids,196,2.5,mg/L,1,Normal
+Alameda,03/16/2004 12:24,Total Dissolved Solids,222,1.0,mg/L,1,Normal
+Alameda,03/18/1998 10:50,Total Dissolved Solids,170,1.0,mg/L,1,Normal
+Alameda,03/18/1998 12:34,Total Dissolved Solids,170,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/18/2008 10:40,Total Dissolved Solids,200,1.0,mg/L,1,Normal
+Alameda,03/19/2012 15:00,Total Dissolved Solids,207,1.0,mg/L,1,Normal
+Alameda,04/15/1998 10:10,Total Dissolved Solids,189,1.0,mg/L,1,Normal
+Alameda,04/15/2019 12:10,Total Dissolved Solids,189,1.0,mg/L,1,Normal
+Alameda,04/17/2017 11:05,Total Dissolved Solids,157,1.0,mg/L,1,Normal
+Alameda,04/17/2023 12:30,Total Dissolved Solids,203,2.5,mg/L,1,Normal
+Alameda,04/18/2005 13:30,Total Dissolved Solids,191,1.0,mg/L,1,Normal
+Alameda,04/18/2006 11:40,Total Dissolved Solids,203,1.0,mg/L,1,Normal
+Alameda,05/15/2017 11:05,Total Dissolved Solids,164,1.0,mg/L,1,Normal
+Alameda,05/15/2023 12:20,Total Dissolved Solids,200,2.5,mg/L,1,Normal
+Alameda,05/16/2006 09:50,Total Dissolved Solids,200,1.0,mg/L,1,Normal
+Alameda,05/17/2005 11:35,Total Dissolved Solids,201,1.0,mg/L,1,Normal
+Alameda,05/17/2021 12:50,Total Dissolved Solids,288,2.5,mg/L,1,Normal
+Alameda,05/18/2010 14:15,Total Dissolved Solids,214,1.0,mg/L,1,Normal
+Alameda,06/18/1997 12:00,Total Dissolved Solids,202,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/19/2007 11:55,Total Dissolved Solids,220,1.0,mg/L,1,Normal
+Alameda,06/20/2006 10:20,Total Dissolved Solids,204,1.0,mg/L,1,Normal
+Alameda,06/21/2000 09:35,Total Dissolved Solids,235,1.0,mg/L,1,Normal
+Alameda,07/19/2000 11:15,Total Dissolved Solids,225,1.0,mg/L,1,Normal
+Alameda,07/19/2010 13:20,Total Dissolved Solids,212,1.0,mg/L,1,Normal
+Alameda,07/19/2021 11:25,Total Dissolved Solids,293,2.5,mg/L,1,Normal
+Alameda,08/05/1985 11:10,Total Dissolved Solids,270,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/12/1985 10:40,Total Dissolved Solids,272,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/13/2018 11:30,Total Dissolved Solids,220,1.0,mg/L,1,Normal
+Alameda,08/16/2000 09:35,Total Dissolved Solids,231,1.0,mg/L,1,Normal
+Alameda,08/16/2010 14:00,Total Dissolved Solids,205,1.0,mg/L,1,Normal
+Alameda,08/17/2004 13:30,Total Dissolved Solids,233,1.0,mg/L,1,Normal
+Alameda,08/17/2015 09:15,Total Dissolved Solids,305,1.0,mg/L,1,Normal
+Alameda,08/19/1998 09:15,Total Dissolved Solids,254,1.0,mg/L,1,Normal
+Alameda,08/20/2013 11:55,Total Dissolved Solids,251,1.0,mg/L,1,Normal
+Alameda,08/22/2022 12:05,Total Dissolved Solids,287,2.5,mg/L,1,Normal
+Alameda,08/22/2022 12:05,Total Dissolved Solids,288,2.5,mg/L,1,Normal
+Alameda,09/10/1985 10:20,Total Dissolved Solids,276,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/13/2004 13:30,Total Dissolved Solids,228,1.0,mg/L,1,Normal
+Alameda,09/15/2014 09:00,Total Dissolved Solids,314,1.0,mg/L,1,Normal
+Alameda,09/16/1998 10:00,Total Dissolved Solids,251,1.0,mg/L,1,Normal
+Alameda,09/16/2015 09:30,Total Dissolved Solids,307,1.0,mg/L,1,Normal
+Alameda,09/16/2019 12:20,Total Dissolved Solids,182,1.0,mg/L,1,Normal
+Alameda,09/17/1985 10:50,Total Dissolved Solids,277,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/17/1997 12:00,Total Dissolved Solids,211,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/18/2002 08:42,Total Dissolved Solids,272,1.0,mg/L,1,Normal
+Alameda,09/18/2007 12:15,Total Dissolved Solids,224,1.0,mg/L,1,Normal
+Alameda,09/19/2005 11:35,Total Dissolved Solids,201,1.0,mg/L,1,Normal
+Alameda,09/19/2006 09:40,Total Dissolved Solids,205,1.0,mg/L,1,Normal
+Alameda,09/19/2022 12:50,Total Dissolved Solids,286,2.5,mg/L,1,Normal
+Alameda,09/20/2000 10:00,Total Dissolved Solids,244,1.0,mg/L,1,Normal
+Alameda,09/23/1985 10:45,Total Dissolved Solids,274,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/30/1985 10:50,Total Dissolved Solids,268,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/08/1985 10:20,Total Dissolved Solids,278,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/13/2014 09:30,Total Dissolved Solids,317,1.0,mg/L,1,Normal
+Alameda,10/15/1997 12:34,Total Dissolved Solids,206,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/16/1996 10:30,Total Dissolved Solids,220,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/16/2012 12:05,Total Dissolved Solids,233,1.0,mg/L,1,Normal
+Alameda,10/16/2017 11:30,Total Dissolved Solids,209,1.0,mg/L,1,Normal
+Alameda,10/17/2006 11:27,Total Dissolved Solids,201,1.0,mg/L,1,Normal
+Alameda,10/18/2000 11:00,Total Dissolved Solids,239,1.0,mg/L,1,Normal
+Alameda,10/18/2005 09:40,Total Dissolved Solids,200,1.0,mg/L,1,Normal
+Alameda,10/19/2004 10:37,Total Dissolved Solids,230,1.0,mg/L,1,Normal
+Alameda,10/19/2015 09:20,Total Dissolved Solids,320,1.0,mg/L,1,Normal
+Alameda,10/20/1999 08:45,Total Dissolved Solids,275,1.0,mg/L,1,Normal
+Alameda,10/21/1998 08:50,Total Dissolved Solids,267,1.0,mg/L,1,Normal
+Alameda,10/21/2013 10:20,Total Dissolved Solids,253,1.0,mg/L,1,Normal
+Alameda,10/21/2013 10:20,Total Dissolved Solids,254,1.0,mg/L,1,Normal
+Alameda,11/13/2012 12:20,Total Dissolved Solids,250,1.0,mg/L,1,Normal
+Alameda,11/13/2017 12:35,Total Dissolved Solids,209,1.0,mg/L,1,Normal
+Alameda,11/14/2011 11:45,Total Dissolved Solids,200,1.0,mg/L,1,Normal
+Alameda,11/14/2016 12:20,Total Dissolved Solids,267,1.0,mg/L,1,Normal
+Alameda,11/15/2000 11:00,Total Dissolved Solids,235,1.0,mg/L,1,Normal
+Alameda,11/15/2010 16:15,Total Dissolved Solids,227,1.0,mg/L,1,Normal
+Alameda,11/16/2009 13:10,Total Dissolved Solids,232,1.0,mg/L,1,Normal
+Alameda,11/16/2015 12:15,Total Dissolved Solids,327,1.0,mg/L,1,Normal
+Alameda,11/17/1999 10:10,Total Dissolved Solids,265,1.0,mg/L,1,Normal
+Alameda,11/17/2008 12:20,Total Dissolved Solids,220,1.0,mg/L,1,Normal
+Alameda,12/13/2010 16:30,Total Dissolved Solids,232,1.0,mg/L,1,Normal
+Alameda,12/13/2021 13:10,Total Dissolved Solids,312,2.5,mg/L,1,Normal
+Alameda,12/14/2009 13:30,Total Dissolved Solids,233,1.0,mg/L,1,Normal
+Alameda,12/14/2015 10:30,Total Dissolved Solids,327,1.0,mg/L,1,Normal
+Alameda,12/15/2008 12:45,Total Dissolved Solids,241,1.0,mg/L,1,Normal
+Alameda,12/19/2011 13:50,Total Dissolved Solids,208,1.0,mg/L,1,Normal
+Alameda,12/19/2016 12:30,Total Dissolved Solids,273,1.0,mg/L,1,Normal
+Alameda,12/19/2022 13:15,Total Dissolved Solids,297,2.5,mg/L,1,Normal
+Alameda,01/04/1988 12:40,Total Dissolved Solids,257,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/04/1988 12:49,Total Dissolved Solids,264,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/08/1990 10:36,Total Dissolved Solids,323,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/08/1990 10:42,Total Dissolved Solids,323,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/09/1989 11:05,Total Dissolved Solids,311,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/09/1989 11:10,Total Dissolved Solids,310,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/15/1997 09:50,Total Dissolved Solids,182,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/01/1988 11:03,Total Dissolved Solids,272,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/01/1988 11:08,Total Dissolved Solids,272,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/06/1989 11:16,Total Dissolved Solids,306,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/06/1989 11:21,Total Dissolved Solids,304,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/13/1990 11:32,Total Dissolved Solids,319,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/13/1990 11:41,Total Dissolved Solids,322,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/14/2012 11:30,Total Dissolved Solids,215,1.0,mg/L,1,Normal
+Alameda,02/15/2011 11:00,Total Dissolved Solids,224,1.0,mg/L,1,Normal
+Alameda,02/16/1978 12:00,Total Dissolved Solids,282,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/19/2014 11:10,Total Dissolved Solids,297,1.0,mg/L,1,Normal
+Alameda,02/19/2014 11:30,Total Dissolved Solids,301,1.0,mg/L,1,Normal
+Alameda,02/20/2001 09:55,Total Dissolved Solids,258,1.0,mg/L,1,Normal
+Alameda,02/20/2001 10:10,Total Dissolved Solids,258,1.0,mg/L,1,Normal
+Alameda,02/23/1978 13:25,Total Dissolved Solids,281,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/23/2016 09:45,Total Dissolved Solids,285,1.0,mg/L,1,Normal
+Alameda,02/24/2015 09:45,Total Dissolved Solids,308,1.0,mg/L,1,Normal
+Alameda,02/24/2015 09:45,Total Dissolved Solids,309,1.0,mg/L,1,Normal
+Alameda,03/01/1978 13:15,Total Dissolved Solids,281,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/01/1988 11:23,Total Dissolved Solids,274,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/01/1988 11:29,Total Dissolved Solids,274,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/06/1978 13:00,Total Dissolved Solids,297,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/06/1989 10:12,Total Dissolved Solids,338,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/06/1989 10:19,Total Dissolved Solids,324,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/13/1978 11:50,Total Dissolved Solids,270,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/13/1980 13:00,Total Dissolved Solids,196,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/18/2014 11:30,Total Dissolved Solids,309,1.0,mg/L,1,Normal
+Alameda,03/18/2014 11:40,Total Dissolved Solids,311,1.0,mg/L,1,Normal
+Alameda,04/03/1989 10:13,Total Dissolved Solids,306,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/03/1989 10:21,Total Dissolved Solids,320,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/05/1988 09:29,Total Dissolved Solids,316,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/05/1988 09:34,Total Dissolved Solids,311,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/07/1987 10:30,Total Dissolved Solids,266,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/07/1987 10:33,Total Dissolved Solids,261,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/12/1978 11:30,Total Dissolved Solids,226,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/24/1978 11:00,Total Dissolved Solids,236,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/01/1989 09:53,Total Dissolved Solids,298,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/01/1989 09:58,Total Dissolved Solids,289,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/03/1988 10:01,Total Dissolved Solids,305,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/03/1988 10:06,Total Dissolved Solids,298,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/04/1978 11:30,Total Dissolved Solids,245,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/06/1987 10:42,Total Dissolved Solids,251,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/06/1987 10:48,Total Dissolved Solids,256,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/19/2009 10:55,Total Dissolved Solids,224,1.0,mg/L,1,Normal
+Alameda,05/19/2009 10:55,Total Dissolved Solids,226,1.0,mg/L,1,Normal
+Alameda,05/25/2010 12:50,Total Dissolved Solids,219,1.0,mg/L,1,Normal
+Alameda,05/27/2015 08:30,Total Dissolved Solids,318,1.0,mg/L,1,Normal
+Alameda,05/27/2015 08:30,Total Dissolved Solids,319,1.0,mg/L,1,Normal
+Alameda,05/28/2014 10:00,Total Dissolved Solids,323,1.0,mg/L,1,Normal
+Alameda,06/03/1987 09:17,Total Dissolved Solids,252,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/03/1987 09:23,Total Dissolved Solids,252,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/06/1988 10:37,Total Dissolved Solids,283,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/06/1988 10:43,Total Dissolved Solids,278,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/06/1989 10:16,Total Dissolved Solids,294,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/06/1989 10:21,Total Dissolved Solids,289,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/12/1978 13:00,Total Dissolved Solids,232,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/21/2023 12:45,Total Dissolved Solids,256,2.5,mg/L,1,Normal
+Alameda,06/21/2023 13:15,Total Dissolved Solids,205,2.5,mg/L,1,Normal
+Alameda,06/21/2023 13:45,Total Dissolved Solids,199,2.5,mg/L,1,Normal
+Alameda,06/21/2023 13:45,Total Dissolved Solids,201,2.5,mg/L,1,Normal
+Alameda,06/22/2021 10:48,Total Dissolved Solids,325,2.5,mg/L,1,Normal
+Alameda,06/22/2021 10:48,Total Dissolved Solids,334,2.5,mg/L,1,Normal
+Alameda,06/22/2021 11:12,Total Dissolved Solids,347,2.5,mg/L,1,Normal
+Alameda,06/22/2021 11:30,Total Dissolved Solids,310,2.5,mg/L,1,Normal
+Alameda,07/05/1989 08:52,Total Dissolved Solids,289,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/05/1989 08:59,Total Dissolved Solids,302,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/06/1988 08:56,Total Dissolved Solids,293,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/06/1988 09:03,Total Dissolved Solids,281,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/07/1987 10:20,Total Dissolved Solids,252,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/07/1987 10:26,Total Dissolved Solids,249,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/05/1987 10:07,Total Dissolved Solids,263,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/05/1987 10:11,Total Dissolved Solids,256,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/07/1989 10:24,Total Dissolved Solids,302,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/07/1989 10:29,Total Dissolved Solids,306,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/08/1977 12:00,Total Dissolved Solids,364,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/08/1978 12:45,Total Dissolved Solids,250,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/08/1988 09:24,Total Dissolved Solids,299,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/08/1988 09:36,Total Dissolved Solids,297,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/13/2013 11:50,Total Dissolved Solids,263,1.0,mg/L,1,Normal
+Alameda,08/13/2013 11:50,Total Dissolved Solids,265,1.0,mg/L,1,Normal
+Alameda,08/16/2011 11:30,Total Dissolved Solids,219,1.0,mg/L,1,Normal
+Alameda,08/18/2009 11:15,Total Dissolved Solids,236,1.0,mg/L,1,Normal
+Alameda,08/21/2018 10:30,Total Dissolved Solids,230,1.0,mg/L,1,Normal
+Alameda,08/23/1977 12:30,Total Dissolved Solids,392,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/25/2015 09:05,Total Dissolved Solids,328,1.0,mg/L,1,Normal
+Alameda,08/26/2014 09:30,Total Dissolved Solids,342,1.0,mg/L,1,Normal
+Alameda,08/30/1977 12:30,Total Dissolved Solids,413,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/30/1977 12:31,Total Dissolved Solids,413,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/01/1987 09:39,Total Dissolved Solids,276,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/01/1987 09:44,Total Dissolved Solids,279,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/05/1989 09:34,Total Dissolved Solids,311,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/05/1989 09:39,Total Dissolved Solids,308,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/07/1977 12:30,Total Dissolved Solids,324,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/07/1977 12:31,Total Dissolved Solids,398,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/07/1988 09:25,Total Dissolved Solids,306,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/07/1988 09:36,Total Dissolved Solids,294,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/12/1979 12:30,Total Dissolved Solids,276,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/18/1996 08:45,Total Dissolved Solids,215,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/01/2003 10:15,Total Dissolved Solids,244,1.0,mg/L,1,Normal
+Alameda,10/01/2003 10:15,Total Dissolved Solids,245,1.0,mg/L,1,Normal
+Alameda,10/01/2003 10:28,Total Dissolved Solids,244,1.0,mg/L,1,Normal
+Alameda,10/01/2003 10:30,Total Dissolved Solids,249,1.0,mg/L,1,Normal
+Alameda,10/01/2003 10:35,Total Dissolved Solids,235,1.0,mg/L,1,Normal
+Alameda,10/01/2003 10:40,Total Dissolved Solids,238,1.0,mg/L,1,Normal
+Alameda,10/03/1988 09:42,Total Dissolved Solids,304,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/03/1988 09:46,Total Dissolved Solids,294,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/05/1987 09:59,Total Dissolved Solids,267,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/05/1987 10:06,Total Dissolved Solids,254,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/11/1989 09:44,Total Dissolved Solids,308,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/11/1989 09:49,Total Dissolved Solids,304,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/14/2020 12:13,Total Dissolved Solids,256,1.0,mg/L,1,Normal
+Alameda,10/18/2022 11:54,Total Dissolved Solids,311,2.5,mg/L,1,Normal
+Alameda,10/18/2022 12:30,Total Dissolved Solids,282,2.5,mg/L,1,Normal
+Alameda,10/18/2022 12:48,Total Dissolved Solids,288,2.5,mg/L,1,Normal
+Alameda,10/27/2021 11:50,Total Dissolved Solids,311,2.5,mg/L,1,Normal
+Alameda,11/01/1988 10:56,Total Dissolved Solids,310,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/01/1988 11:03,Total Dissolved Solids,296,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/02/1987 11:46,Total Dissolved Solids,286,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/02/1987 11:52,Total Dissolved Solids,286,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/09/2010 12:15,Total Dissolved Solids,237,1.0,mg/L,1,Normal
+Alameda,11/17/2009 11:40,Total Dissolved Solids,235,1.0,mg/L,1,Normal
+Alameda,11/18/2014 10:20,Total Dissolved Solids,335,1.0,mg/L,1,Normal
+Alameda,11/20/1989 11:09,Total Dissolved Solids,319,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/20/1989 11:13,Total Dissolved Solids,316,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/20/1996 10:35,Total Dissolved Solids,233,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/21/2011 11:20,Total Dissolved Solids,213,1.0,mg/L,1,Normal
+Alameda,12/05/1988 11:14,Total Dissolved Solids,294,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/05/1988 11:23,Total Dissolved Solids,301,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/09/1987 10:35,Total Dissolved Solids,264,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/09/1987 10:41,Total Dissolved Solids,263,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/11/1989 11:07,Total Dissolved Solids,326,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/11/1989 11:13,Total Dissolved Solids,324,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/18/1996 10:30,Total Dissolved Solids,227,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/18/2000 12:55,Total Dissolved Solids,249,1.0,mg/L,1,Normal
+Alameda,12/18/2000 13:10,Total Dissolved Solids,252,1.0,mg/L,1,Normal
+Alameda,03/29/1973 10:50,Total Dissolved Solids,190,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/31/1978 13:00,Total Dissolved Solids,286,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/08/1978 10:15,Total Dissolved Solids,281,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/16/1978 12:35,Total Dissolved Solids,239,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/23/1978 14:02,Total Dissolved Solids,254,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/01/1978 14:00,Total Dissolved Solids,258,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/06/1978 13:20,Total Dissolved Solids,264,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/13/1978 13:00,Total Dissolved Solids,212,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/13/1980 12:40,Total Dissolved Solids,200,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/12/1978 11:25,Total Dissolved Solids,226,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/24/1978 12:10,Total Dissolved Solids,250,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/04/1978 12:30,Total Dissolved Solids,244,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/12/1978 13:45,Total Dissolved Solids,236,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/08/1978 12:00,Total Dissolved Solids,254,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/23/1977 12:30,Total Dissolved Solids,440,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/12/1979 11:30,Total Dissolved Solids,278,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/20/1964 09:00,Total Dissolved Solids,17100,1.0,mg/L at 180 °C,1,Normal
+Alameda,01/27/1965 07:40,Total Dissolved Solids,16500,1.0,mg/L at 180 °C,1,Normal
+Alameda,02/03/1965 09:10,Total Dissolved Solids,19900,1.0,mg/L at 180 °C,-1,Special Sampling Conditions or Treatment Plant Failure
+Alameda,02/10/1965 00:00,Total Dissolved Solids,18400,1.0,mg/L at 180 °C,-1,Special Sampling Conditions or Treatment Plant Failure
+Alameda,02/17/1965 08:10,Total Dissolved Solids,25800,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/03/1965 07:30,Total Dissolved Solids,24700,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/17/1965 08:40,Total Dissolved Solids,26300,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/31/1965 09:45,Total Dissolved Solids,25000,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/14/1965 00:00,Total Dissolved Solids,24800,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/28/1965 08:00,Total Dissolved Solids,16400,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/19/1965 07:50,Total Dissolved Solids,25100,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/09/1965 00:00,Total Dissolved Solids,28700,1.0,mg/L at 180 °C,-1,Potential Concentrated Source or Data Error
+Alameda,01/18/1951 00:00,Total Dissolved Solids,180,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/05/1951 00:00,Total Dissolved Solids,214,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/05/1951 12:30,Total Dissolved Solids,293,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/09/1977 13:45,Total Dissolved Solids,31100,1.0,mg/L at 180 °C,-1,Industrial Discharge or Data Error
+Alameda,03/14/1972 10:00,Total Dissolved Solids,22300,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/18/1976 11:00,Total Dissolved Solids,26700,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/20/1973 11:50,Total Dissolved Solids,3710,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/27/1974 12:15,Total Dissolved Solids,5080,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/28/1978 13:00,Total Dissolved Solids,14600,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/31/1975 12:30,Total Dissolved Solids,16500,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/03/1977 11:10,Total Dissolved Solids,32200,1.0,mg/L at 180 °C,-1,Industrial Discharge or Data Error
+Alameda,06/11/1975 11:00,Total Dissolved Solids,27100,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/13/1972 11:15,Total Dissolved Solids,29000,1.0,mg/L at 180 °C,-1,Potential Concentrated Source or Data Error
+Alameda,06/14/1976 12:00,Total Dissolved Solids,31100,1.0,mg/L at 180 °C,-1,Industrial Discharge or Data Error
+Alameda,06/18/1973 12:30,Total Dissolved Solids,28000,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/20/1974 10:15,Total Dissolved Solids,23200,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/23/1978 12:20,Total Dissolved Solids,26600,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/05/1978 11:45,Total Dissolved Solids,31200,1.0,mg/L at 180 °C,-1,Industrial Discharge or Data Error
+Alameda,09/08/1975 12:00,Total Dissolved Solids,30300,1.0,mg/L at 180 °C,-1,Industrial Discharge or Data Error
+Alameda,09/11/1972 12:30,Total Dissolved Solids,32300,1.0,mg/L at 180 °C,-1,Industrial Discharge or Data Error
+Alameda,09/13/1973 10:20,Total Dissolved Solids,31600,1.0,mg/L at 180 °C,-1,Industrial Discharge or Data Error
+Alameda,09/14/1977 09:50,Total Dissolved Solids,39100,1.0,mg/L at 180 °C,-1,Industrial Discharge or Data Error
+Alameda,09/17/1974 10:45,Total Dissolved Solids,30300,1.0,mg/L at 180 °C,-1,Industrial Discharge or Data Error
+Alameda,12/11/1972 13:45,Total Dissolved Solids,7940,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/13/1976 14:00,Total Dissolved Solids,29200,1.0,mg/L at 180 °C,-1,Potential Concentrated Source or Data Error
+Alameda,12/15/1977 13:20,Total Dissolved Solids,22600,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/17/1973 11:45,Total Dissolved Solids,4560,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/20/1974 10:20,Total Dissolved Solids,16700,1.0,mg/L at 180 °C,-1,Special Sampling Conditions or Treatment Plant Failure
+Alameda,12/21/1978 13:30,Total Dissolved Solids,26400,1.0,mg/L at 180 °C,1,Normal
+Alameda,12/22/1975 12:00,Total Dissolved Solids,26700,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/05/1951 11:25,Total Dissolved Solids,157,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/07/1951 00:00,Total Dissolved Solids,257,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/04/1977 10:45,Total Dissolved Solids,643,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/04/1990 13:00,Total Dissolved Solids,380,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/12/2017 07:35,Total Dissolved Solids,319,1.0,mg/L,1,Normal
+Alameda,04/12/2017 07:35,Total Dissolved Solids,321,1.0,mg/L,1,Normal
+Alameda,04/15/1987 11:00,Total Dissolved Solids,450,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/16/2014 00:00,Total Dissolved Solids,698,1.0,mg/L,1,Normal
+Alameda,04/17/1980 15:30,Total Dissolved Solids,461,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/17/2012 09:08,Total Dissolved Solids,482,1.0,mg/L,1,Normal
+Alameda,04/17/2012 09:08,Total Dissolved Solids,483,1.0,mg/L,1,Normal
+Alameda,04/19/1979 09:15,Total Dissolved Solids,680,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/20/2011 07:31,Total Dissolved Solids,175,1.0,mg/L,1,Normal
+Alameda,04/23/1991 11:00,Total Dissolved Solids,556,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/23/2015 07:20,Total Dissolved Solids,638,1.0,mg/L,1,Normal
+Alameda,04/24/1989 12:00,Total Dissolved Solids,394,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/25/1975 14:30,Total Dissolved Solids,505,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/25/2013 07:39,Total Dissolved Solids,649,1.0,mg/L,1,Normal
+Alameda,04/25/2013 07:39,Total Dissolved Solids,650,1.0,mg/L,1,Normal
+Alameda,04/25/2016 07:44,Total Dissolved Solids,397,1.0,mg/L,1,Normal
+Alameda,04/28/1988 13:00,Total Dissolved Solids,346,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/29/2020 06:30,Total Dissolved Solids,413,1.0,mg/L,1,Normal
+Alameda,05/01/1969 10:30,Total Dissolved Solids,510,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/02/2019 06:45,Total Dissolved Solids,482,1.0,mg/L,1,Normal
+Alameda,05/04/1984 12:40,Total Dissolved Solids,572,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/05/1964 15:55,Total Dissolved Solids,536,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/06/2010 04:06,Total Dissolved Solids,542,1.0,mg/L,1,Normal
+Alameda,05/07/1965 13:00,Total Dissolved Solids,517,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/07/1981 09:20,Total Dissolved Solids,404,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/08/2018 07:38,Total Dissolved Solids,530,1.0,mg/L,1,Normal
+Alameda,05/09/1967 09:10,Total Dissolved Solids,500,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/09/1985 09:15,Total Dissolved Solids,667,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/13/1986 08:00,Total Dissolved Solids,609,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/13/2021 07:31,Total Dissolved Solids,363,2.5,mg/L,1,Normal
+Alameda,05/13/2021 07:31,Total Dissolved Solids,364,2.5,mg/L,1,Normal
+Alameda,05/14/1963 13:30,Total Dissolved Solids,621,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/17/1978 09:30,Total Dissolved Solids,728,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/18/1976 07:45,Total Dissolved Solids,252,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/19/1966 10:40,Total Dissolved Solids,256,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/22/1968 09:30,Total Dissolved Solids,240,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/23/1974 13:30,Total Dissolved Solids,467,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/02/1964 14:30,Total Dissolved Solids,347,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/02/1965 13:30,Total Dissolved Solids,283,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/04/1963 16:15,Total Dissolved Solids,322,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/05/1980 12:45,Total Dissolved Solids,370,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/06/1962 17:15,Total Dissolved Solids,297,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/07/1976 15:45,Total Dissolved Solids,302,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/13/1974 15:30,Total Dissolved Solids,720,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/14/1978 14:30,Total Dissolved Solids,679,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/14/1989 12:30,Total Dissolved Solids,370,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/16/1975 11:30,Total Dissolved Solids,476,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/17/1981 09:15,Total Dissolved Solids,332,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/18/1986 09:30,Total Dissolved Solids,748,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/19/1985 14:45,Total Dissolved Solids,423,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/19/1991 14:00,Total Dissolved Solids,330,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/20/1979 10:00,Total Dissolved Solids,664,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/20/1984 09:00,Total Dissolved Solids,711,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/20/1990 14:45,Total Dissolved Solids,326,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/22/1966 10:00,Total Dissolved Solids,348,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/22/1977 09:30,Total Dissolved Solids,713,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/24/1987 07:15,Total Dissolved Solids,716,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/26/1969 12:45,Total Dissolved Solids,294,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/09/2014 07:30,Total Dissolved Solids,385,1.0,mg/L,1,Normal
+Alameda,10/12/2009 07:22,Total Dissolved Solids,636,1.0,mg/L,1,Normal
+Alameda,10/12/2010 04:43,Total Dissolved Solids,539,1.0,mg/L,1,Normal
+Alameda,10/13/2015 07:35,Total Dissolved Solids,401,1.0,mg/L,1,Normal
+Alameda,10/15/2013 07:54,Total Dissolved Solids,487,1.0,mg/L,1,Normal
+Alameda,10/17/2012 08:10,Total Dissolved Solids,641,1.0,mg/L,1,Normal
+Alameda,10/19/2016 07:51,Total Dissolved Solids,470,1.0,mg/L,1,Normal
+Alameda,10/19/2016 07:51,Total Dissolved Solids,471,1.0,mg/L,1,Normal
+Alameda,10/23/2019 07:07,Total Dissolved Solids,471,1.0,mg/L,1,Normal
+Alameda,10/25/1988 14:40,Total Dissolved Solids,476,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/25/2011 07:10,Total Dissolved Solids,479,1.0,mg/L,1,Normal
+Alameda,10/31/2017 07:56,Total Dissolved Solids,651,1.0,mg/L,1,Normal
+Alameda,10/31/2018 07:17,Total Dissolved Solids,697,1.0,mg/L,1,Normal
+Alameda,02/25/1957 10:40,Total Dissolved Solids,838,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/05/1956 11:00,Total Dissolved Solids,506,1.0,mg/L at 180 °C,1,Normal
+Alameda,02/25/1957 13:30,Total Dissolved Solids,306,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/05/1956 11:30,Total Dissolved Solids,380,1.0,mg/L at 180 °C,1,Normal
+Alameda,01/11/1961 14:45,Total Dissolved Solids,1070,1.0,mg/L at 180 °C,1,Normal
+Alameda,02/25/1957 15:00,Total Dissolved Solids,182,1.0,mg/L at 180 °C,1,Normal
+Alameda,01/18/1968 09:00,Total Dissolved Solids,450,1.0,mg/L at 180 °C,1,Normal
+Alameda,02/01/1968 10:05,Total Dissolved Solids,264,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/06/1968 09:15,Total Dissolved Solids,299,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/03/1968 08:50,Total Dissolved Solids,325,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/04/1977 15:30,Total Dissolved Solids,928,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/04/1990 08:50,Total Dissolved Solids,891,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/12/2017 12:58,Total Dissolved Solids,546,1.0,mg/L,1,Normal
+Alameda,04/14/1987 13:30,Total Dissolved Solids,330,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/16/2014 00:00,Total Dissolved Solids,687,1.0,mg/L,1,Normal
+Alameda,04/17/1980 17:00,Total Dissolved Solids,244,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/17/2012 08:00,Total Dissolved Solids,298,1.0,mg/L,1,Normal
+Alameda,04/19/1979 17:15,Total Dissolved Solids,291,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/20/2011 06:19,Total Dissolved Solids,600,1.0,mg/L,1,Normal
+Alameda,04/23/1991 06:55,Total Dissolved Solids,736,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/23/2015 06:15,Total Dissolved Solids,296,1.0,mg/L,1,Normal
+Alameda,04/24/1989 07:30,Total Dissolved Solids,752,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/25/1969 11:30,Total Dissolved Solids,181,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/25/1975 15:45,Total Dissolved Solids,316,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/25/2013 06:29,Total Dissolved Solids,379,1.0,mg/L,1,Normal
+Alameda,04/25/2016 06:40,Total Dissolved Solids,279,1.0,mg/L,1,Normal
+Alameda,04/28/1988 08:30,Total Dissolved Solids,812,1.0,mg/L at 180 °C,1,Normal
+Alameda,04/29/2020 11:41,Total Dissolved Solids,357,1.0,mg/L,1,Normal
+Alameda,05/01/1968 13:55,Total Dissolved Solids,396,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/02/2019 12:21,Total Dissolved Solids,213,1.0,mg/L,1,Normal
+Alameda,05/03/1965 12:30,Total Dissolved Solids,284,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/04/1964 10:45,Total Dissolved Solids,438,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/04/1984 13:30,Total Dissolved Solids,550,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/06/2010 03:08,Total Dissolved Solids,429,1.0,mg/L,1,Normal
+Alameda,05/07/1981 15:30,Total Dissolved Solids,198,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/08/2018 06:45,Total Dissolved Solids,205,1.0,mg/L,1,Normal
+Alameda,05/09/1967 11:50,Total Dissolved Solids,336,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/09/1985 15:15,Total Dissolved Solids,842,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/13/1986 09:30,Total Dissolved Solids,975,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/13/2021 06:43,Total Dissolved Solids,609,2.5,mg/L,1,Normal
+Alameda,05/14/1963 13:00,Total Dissolved Solids,308,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/17/1978 16:00,Total Dissolved Solids,188,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/18/1976 16:00,Total Dissolved Solids,234,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/20/1966 13:05,Total Dissolved Solids,464,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/23/1974 14:45,Total Dissolved Solids,288,1.0,mg/L at 180 °C,1,Normal
+Alameda,06/05/1968 10:15,Total Dissolved Solids,724,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/03/1963 10:45,Total Dissolved Solids,514,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/05/1980 14:15,Total Dissolved Solids,188,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/06/1965 12:00,Total Dissolved Solids,615,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/08/1976 13:45,Total Dissolved Solids,366,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/13/1974 16:30,Total Dissolved Solids,274,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/14/1978 15:30,Total Dissolved Solids,325,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/14/1989 08:40,Total Dissolved Solids,914,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/16/1975 17:30,Total Dissolved Solids,250,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/17/1981 16:15,Total Dissolved Solids,262,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/19/1984 15:00,Total Dissolved Solids,906,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/19/1985 16:30,Total Dissolved Solids,932,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/19/1986 10:30,Total Dissolved Solids,1180,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/19/1991 08:30,Total Dissolved Solids,643,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/20/1979 16:15,Total Dissolved Solids,296,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/20/1990 09:45,Total Dissolved Solids,867,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/22/1977 16:00,Total Dissolved Solids,911,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/23/1987 10:40,Total Dissolved Solids,972,1.0,mg/L at 180 °C,1,Normal
+Alameda,09/26/1969 15:00,Total Dissolved Solids,189,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/09/2014 06:20,Total Dissolved Solids,752,1.0,mg/L,1,Normal
+Alameda,10/12/2009 06:07,Total Dissolved Solids,609,1.0,mg/L,1,Normal
+Alameda,10/12/2009 06:07,Total Dissolved Solids,611,1.0,mg/L,1,Normal
+Alameda,10/12/2010 03:35,Total Dissolved Solids,535,1.0,mg/L,1,Normal
+Alameda,10/13/2015 06:30,Total Dissolved Solids,356,1.0,mg/L,1,Normal
+Alameda,10/15/2013 06:57,Total Dissolved Solids,273,1.0,mg/L,1,Normal
+Alameda,10/17/2012 06:45,Total Dissolved Solids,257,1.0,mg/L,1,Normal
+Alameda,10/19/2016 06:36,Total Dissolved Solids,310,1.0,mg/L,1,Normal
+Alameda,10/23/2019 13:45,Total Dissolved Solids,239,1.0,mg/L,1,Normal
+Alameda,10/25/1988 09:30,Total Dissolved Solids,806,1.0,mg/L at 180 °C,1,Normal
+Alameda,10/25/2011 05:45,Total Dissolved Solids,186,1.0,mg/L,1,Normal
+Alameda,10/31/2017 07:00,Total Dissolved Solids,226,1.0,mg/L,1,Normal
+Alameda,10/31/2018 06:24,Total Dissolved Solids,252,1.0,mg/L,1,Normal
+Alameda,01/15/1973 14:00,Total Dissolved Solids,198,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/21/1973 11:10,Total Dissolved Solids,212,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/21/1973 11:00,Total Dissolved Solids,223,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/18/1973 11:00,Total Dissolved Solids,305,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/16/1973 10:15,Total Dissolved Solids,308,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/15/1972 11:05,Total Dissolved Solids,226,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/20/1972 10:00,Total Dissolved Solids,235,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/13/1957 10:30,Total Dissolved Solids,624,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/04/1951 00:00,Total Dissolved Solids,477,1.0,mg/L at 180 °C,1,Normal
+Alameda,01/22/1951 00:00,Total Dissolved Solids,321,1.0,mg/L at 180 °C,1,Normal
+Alameda,01/22/1951 00:00,Total Dissolved Solids,274,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/04/1951 00:00,Total Dissolved Solids,1110,1.0,mg/L at 180 °C,1,Normal
+Alameda,02/25/1957 15:10,Total Dissolved Solids,284,1.0,mg/L at 180 °C,1,Normal
+Alameda,01/22/1951 00:00,Total Dissolved Solids,192,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/04/1951 00:00,Total Dissolved Solids,667,1.0,mg/L at 180 °C,1,Normal
+Alameda,07/30/1956 14:10,Total Dissolved Solids,381,1.0,mg/L at 180 °C,1,Normal
+Alameda,02/25/1957 13:45,Total Dissolved Solids,201,1.0,mg/L at 180 °C,1,Normal
+Alameda,05/04/1951 00:00,Total Dissolved Solids,320,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/05/1956 11:40,Total Dissolved Solids,440,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/05/1956 13:45,Total Dissolved Solids,304,1.0,mg/L at 180 °C,1,Normal
+Alameda,03/05/1951 00:00,Total Dissolved Solids,416,1.0,mg/L at 180 °C,1,Normal
+Alameda,01/03/1978 16:00,Total Dissolved Solids,538,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/04/1968 07:45,Total Dissolved Solids,306,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/04/2012 12:10,Total Dissolved Solids,305,1.0,mg/L,1,Normal
+Alameda,01/06/1970 23:45,Total Dissolved Solids,299,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/07/1969 21:50,Total Dissolved Solids,256,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/07/1997 14:08,Total Dissolved Solids,129,1.0,mg/L,1,Normal
+Alameda,01/10/1978 14:15,Total Dissolved Solids,430,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/12/1994 10:20,Total Dissolved Solids,240,1.0,mg/L,1,Normal
+Alameda,01/13/1977 09:15,Total Dissolved Solids,456,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/13/1993 08:30,Total Dissolved Solids,266,1.0,mg/L,1,Normal
+Alameda,01/13/2010 09:00,Total Dissolved Solids,382,1.0,mg/L,1,Normal
+Alameda,01/14/2014 09:00,Total Dissolved Solids,410,1.0,mg/L,1,Normal
+Alameda,01/14/2020 08:25,Total Dissolved Solids,265,1.0,mg/L,1,Normal
+Alameda,01/15/1975 11:20,Total Dissolved Solids,258,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/15/1986 10:45,Total Dissolved Solids,301,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/15/1991 08:30,Total Dissolved Solids,415,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/15/1992 09:45,Total Dissolved Solids,387,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/15/1997 08:00,Total Dissolved Solids,106,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/15/2003 07:20,Total Dissolved Solids,185,1.0,mg/L,1,Normal
+Alameda,01/16/1974 12:30,Total Dissolved Solids,199,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/16/1980 11:15,Total Dissolved Solids,192,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/16/1985 10:00,Total Dissolved Solids,203,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/16/1990 09:00,Total Dissolved Solids,355,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/16/2002 08:05,Total Dissolved Solids,232,1.0,mg/L,1,Normal
+Alameda,01/16/2008 08:40,Total Dissolved Solids,360,1.0,mg/L,1,Normal
+Alameda,01/16/2013 09:50,Total Dissolved Solids,276,1.0,mg/L,1,Normal
+Alameda,01/16/2019 08:00,Total Dissolved Solids,378,1.0,mg/L,1,Normal
+Alameda,01/17/1973 12:00,Total Dissolved Solids,369,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/17/1979 12:00,Total Dissolved Solids,203,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/17/1989 09:30,Total Dissolved Solids,340,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/17/1996 08:45,Total Dissolved Solids,165,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/17/2001 09:45,Total Dissolved Solids,387,1.0,mg/L,1,Normal
+Alameda,01/17/2007 07:45,Total Dissolved Solids,313,1.0,mg/L,1,Normal
+Alameda,01/17/2018 08:55,Total Dissolved Solids,305,1.0,mg/L,1,Normal
+Alameda,01/18/1978 09:50,Total Dissolved Solids,368,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/18/1978 12:00,Total Dissolved Solids,372,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/18/1984 09:40,Total Dissolved Solids,150,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/18/1995 08:30,Total Dissolved Solids,265,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/18/1996 11:42,Total Dissolved Solids,329,1.0,mg/L,1,Normal
+Alameda,01/18/2006 08:30,Total Dissolved Solids,129,1.0,mg/L,1,Normal
+Alameda,01/18/2012 09:30,Total Dissolved Solids,345,1.0,mg/L,1,Normal
+Alameda,01/18/2023 08:25,Total Dissolved Solids,193,2.5,mg/L,1,Normal
+Alameda,01/19/1971 18:30,Total Dissolved Solids,275,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/19/1977 11:20,Total Dissolved Solids,450,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/19/1983 11:20,Total Dissolved Solids,159,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/19/1994 08:40,Total Dissolved Solids,252,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/19/1994 11:15,Total Dissolved Solids,256,1.0,mg/L,1,Normal
+Alameda,01/19/2000 08:20,Total Dissolved Solids,246,1.0,mg/L,1,Normal
+Alameda,01/19/2005 08:10,Total Dissolved Solids,256,1.0,mg/L,1,Normal
+Alameda,01/19/2011 09:35,Total Dissolved Solids,152,1.0,mg/L,1,Normal
+Alameda,01/19/2017 09:00,Total Dissolved Solids,173,1.0,mg/L,1,Normal
+Alameda,01/19/2022 08:45,Total Dissolved Solids,261,2.5,mg/L,1,Normal
+Alameda,01/20/1982 11:15,Total Dissolved Solids,332,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/20/1988 09:15,Total Dissolved Solids,320,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/20/1993 08:20,Total Dissolved Solids,254,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/20/1999 08:25,Total Dissolved Solids,271,1.0,mg/L,1,Normal
+Alameda,01/20/2016 08:50,Total Dissolved Solids,335,1.0,mg/L,1,Normal
+Alameda,01/21/1976 12:35,Total Dissolved Solids,165,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/21/1981 10:05,Total Dissolved Solids,179,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/21/1987 09:15,Total Dissolved Solids,193,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/21/1998 09:00,Total Dissolved Solids,303,1.0,mg/L,1,Normal
+Alameda,01/21/1998 12:34,Total Dissolved Solids,303,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/21/2004 08:20,Total Dissolved Solids,167,1.0,mg/L,1,Normal
+Alameda,01/21/2009 10:00,Total Dissolved Solids,379,1.0,mg/L,1,Normal
+Alameda,01/22/2015 08:15,Total Dissolved Solids,288,1.0,mg/L,1,Normal
+Alameda,01/23/1992 08:50,Total Dissolved Solids,334,1.0,mg/L,1,Normal
+Alameda,01/24/1978 11:45,Total Dissolved Solids,370,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/24/1990 09:20,Total Dissolved Solids,395,1.0,mg/L,1,Normal
+Alameda,01/26/1972 11:00,Total Dissolved Solids,254,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/26/1995 09:54,Total Dissolved Solids,218,1.0,mg/L,1,Normal
+Alameda,01/27/1977 13:55,Total Dissolved Solids,421,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/29/1991 12:05,Total Dissolved Solids,428,1.0,mg/L,1,Normal
+Alameda,01/30/1978 12:50,Total Dissolved Solids,282,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/01/1968 08:10,Total Dissolved Solids,481,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/02/1977 10:00,Total Dissolved Solids,426,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/03/1970 17:00,Total Dissolved Solids,242,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/03/1977 09:15,Total Dissolved Solids,470,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/04/1969 19:30,Total Dissolved Solids,142,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/06/1978 13:00,Total Dissolved Solids,243,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/07/2012 14:00,Total Dissolved Solids,346,1.0,mg/L,1,Normal
+Alameda,02/09/1977 08:50,Total Dissolved Solids,666,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/09/1993 11:45,Total Dissolved Solids,258,1.0,mg/L,1,Normal
+Alameda,02/14/1990 08:55,Total Dissolved Solids,291,1.0,mg/L,1,Normal
+Alameda,02/14/2017 08:40,Total Dissolved Solids,133,1.0,mg/L,1,Normal
+Alameda,02/14/2023 09:15,Total Dissolved Solids,242,2.5,mg/L,1,Normal
+Alameda,02/15/1978 10:15,Total Dissolved Solids,322,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/15/1978 10:16,Total Dissolved Solids,312,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/15/1984 09:40,Total Dissolved Solids,214,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/15/1989 09:35,Total Dissolved Solids,428,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/15/1995 07:35,Total Dissolved Solids,236,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/15/1996 11:24,Total Dissolved Solids,225,1.0,mg/L,1,Normal
+Alameda,02/15/2006 08:30,Total Dissolved Solids,194,1.0,mg/L,1,Normal
+Alameda,02/15/2012 08:30,Total Dissolved Solids,362,1.0,mg/L,1,Normal
+Alameda,02/15/2022 09:20,Total Dissolved Solids,255,2.5,mg/L,1,Normal
+Alameda,02/16/1971 20:15,Total Dissolved Solids,324,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/16/1972 12:00,Total Dissolved Solids,337,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/16/1977 10:30,Total Dissolved Solids,512,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/16/1983 11:00,Total Dissolved Solids,168,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/16/1994 08:00,Total Dissolved Solids,256,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/16/1995 11:25,Total Dissolved Solids,245,1.0,mg/L,1,Normal
+Alameda,02/16/2000 08:20,Total Dissolved Solids,216,1.0,mg/L,1,Normal
+Alameda,02/16/2005 06:00,Total Dissolved Solids,235,1.0,mg/L,1,Normal
+Alameda,02/16/2011 08:30,Total Dissolved Solids,162,1.0,mg/L,1,Normal
+Alameda,02/17/1982 11:45,Total Dissolved Solids,209,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/17/1988 10:30,Total Dissolved Solids,233,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/17/1993 08:05,Total Dissolved Solids,234,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/17/1994 10:40,Total Dissolved Solids,254,1.0,mg/L,1,Normal
+Alameda,02/17/1999 07:30,Total Dissolved Solids,218,1.0,mg/L,1,Normal
+Alameda,02/17/2010 08:25,Total Dissolved Solids,265,1.0,mg/L,1,Normal
+Alameda,02/17/2016 09:20,Total Dissolved Solids,262,1.0,mg/L,1,Normal
+Alameda,02/17/2016 09:20,Total Dissolved Solids,263,1.0,mg/L,1,Normal
+Alameda,02/18/1976 13:15,Total Dissolved Solids,200,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/18/1981 09:15,Total Dissolved Solids,262,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/18/1987 10:50,Total Dissolved Solids,247,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/18/1998 08:20,Total Dissolved Solids,258,1.0,mg/L,1,Normal
+Alameda,02/18/2004 07:40,Total Dissolved Solids,179,1.0,mg/L,1,Normal
+Alameda,02/18/2009 08:20,Total Dissolved Solids,428,1.0,mg/L,1,Normal
+Alameda,02/18/2015 08:50,Total Dissolved Solids,333,1.0,mg/L,1,Normal
+Alameda,02/19/1975 12:30,Total Dissolved Solids,264,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/19/1986 09:25,Total Dissolved Solids,286,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/19/1991 08:30,Total Dissolved Solids,432,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/19/1992 08:00,Total Dissolved Solids,417,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/19/1997 08:00,Total Dissolved Solids,129,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/19/2003 07:30,Total Dissolved Solids,175,1.0,mg/L,1,Normal
+Alameda,02/19/2020 09:15,Total Dissolved Solids,244,1.0,mg/L,1,Normal
+Alameda,02/20/1974 11:10,Total Dissolved Solids,251,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/20/1980 10:50,Total Dissolved Solids,188,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/20/1985 10:20,Total Dissolved Solids,246,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/20/1990 09:00,Total Dissolved Solids,264,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/20/2002 08:43,Total Dissolved Solids,263,1.0,mg/L,1,Normal
+Alameda,02/20/2008 08:33,Total Dissolved Solids,267,1.0,mg/L,1,Normal
+Alameda,02/20/2013 08:15,Total Dissolved Solids,264,1.0,mg/L,1,Normal
+Alameda,02/20/2014 07:50,Total Dissolved Solids,495,1.0,mg/L,1,Normal
+Alameda,02/20/2019 08:00,Total Dissolved Solids,225,1.0,mg/L,1,Normal
+Alameda,02/21/1973 12:15,Total Dissolved Solids,428,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/21/1979 10:10,Total Dissolved Solids,227,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/21/1990 09:21,Total Dissolved Solids,270,1.0,mg/L,1,Normal
+Alameda,02/21/1996 07:20,Total Dissolved Solids,229,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/21/2001 08:05,Total Dissolved Solids,254,1.0,mg/L,1,Normal
+Alameda,02/21/2007 08:10,Total Dissolved Solids,268,1.0,mg/L,1,Normal
+Alameda,02/21/2018 08:25,Total Dissolved Solids,279,1.0,mg/L,1,Normal
+Alameda,02/24/1977 09:20,Total Dissolved Solids,527,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/25/1992 09:40,Total Dissolved Solids,352,1.0,mg/L,1,Normal
+Alameda,02/27/1991 11:25,Total Dissolved Solids,475,1.0,mg/L,1,Normal
+Alameda,03/02/1989 10:30,Total Dissolved Solids,377,1.0,mg/L,1,Normal
+Alameda,03/03/1970 21:00,Total Dissolved Solids,213,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/03/1977 09:00,Total Dissolved Solids,559,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/04/1969 21:00,Total Dissolved Solids,173,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/06/1968 09:30,Total Dissolved Solids,468,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/06/2012 14:55,Total Dissolved Solids,331,1.0,mg/L,1,Normal
+Alameda,03/09/1993 09:45,Total Dissolved Solids,274,1.0,mg/L,1,Normal
+Alameda,03/10/1977 09:05,Total Dissolved Solids,533,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/13/1997 12:30,Total Dissolved Solids,137,1.0,mg/L,1,Normal
+Alameda,03/14/1996 12:35,Total Dissolved Solids,161,1.0,mg/L,1,Normal
+Alameda,03/14/2017 08:00,Total Dissolved Solids,112,1.0,mg/L,1,Normal
+Alameda,03/15/1972 11:50,Total Dissolved Solids,161,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/15/1978 10:30,Total Dissolved Solids,312,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/15/1989 10:10,Total Dissolved Solids,336,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/15/1995 08:10,Total Dissolved Solids,242,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/15/2000 08:25,Total Dissolved Solids,147,1.0,mg/L,1,Normal
+Alameda,03/15/2006 08:00,Total Dissolved Solids,134,1.0,mg/L,1,Normal
+Alameda,03/15/2016 08:05,Total Dissolved Solids,240,1.0,mg/L,1,Normal
+Alameda,03/16/1971 14:00,Total Dissolved Solids,288,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/16/1977 10:15,Total Dissolved Solids,487,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/16/1983 09:35,Total Dissolved Solids,176,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/16/1988 10:00,Total Dissolved Solids,356,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/16/1994 09:05,Total Dissolved Solids,305,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/16/2005 07:40,Total Dissolved Solids,322,1.0,mg/L,1,Normal
+Alameda,03/16/2011 08:05,Total Dissolved Solids,186,1.0,mg/L,1,Normal
+Alameda,03/16/2021 07:30,Total Dissolved Solids,382,2.5,mg/L,1,Normal
+Alameda,03/16/2023 07:25,Total Dissolved Solids,151,2.5,mg/L,1,Normal
+Alameda,03/17/1976 13:45,Total Dissolved Solids,170,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/17/1982 10:20,Total Dissolved Solids,185,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/17/1992 08:45,Total Dissolved Solids,208,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/17/1993 09:00,Total Dissolved Solids,293,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/17/1999 08:40,Total Dissolved Solids,160,1.0,mg/L,1,Normal
+Alameda,03/17/2004 07:40,Total Dissolved Solids,155,1.0,mg/L,1,Normal
+Alameda,03/17/2009 15:00,Total Dissolved Solids,251,1.0,mg/L,1,Normal
+Alameda,03/17/2009 15:00,Total Dissolved Solids,253,1.0,mg/L,1,Normal
+Alameda,03/17/2010 09:00,Total Dissolved Solids,297,1.0,mg/L,1,Normal
+Alameda,03/17/2015 07:45,Total Dissolved Solids,242,1.0,mg/L,1,Normal
+Alameda,03/17/2020 07:30,Total Dissolved Solids,238,1.0,mg/L,1,Normal
+Alameda,03/17/2020 07:30,Total Dissolved Solids,239,1.0,mg/L,1,Normal
+Alameda,03/18/1981 10:30,Total Dissolved Solids,292,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/18/1987 09:15,Total Dissolved Solids,324,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/18/1998 08:50,Total Dissolved Solids,265,1.0,mg/L,1,Normal
+Alameda,03/19/1975 10:30,Total Dissolved Solids,234,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/19/1980 12:00,Total Dissolved Solids,166,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/19/1986 09:50,Total Dissolved Solids,198,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/19/1991 08:30,Total Dissolved Solids,363,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/19/1997 09:25,Total Dissolved Solids,204,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/19/2003 07:20,Total Dissolved Solids,176,1.0,mg/L,1,Normal
+Alameda,03/19/2008 08:35,Total Dissolved Solids,359,1.0,mg/L,1,Normal
+Alameda,03/19/2014 09:40,Total Dissolved Solids,312,1.0,mg/L,1,Normal
+Alameda,03/19/2019 07:45,Total Dissolved Solids,123,1.0,mg/L,1,Normal
+Alameda,03/20/1974 10:30,Total Dissolved Solids,222,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/20/1985 09:45,Total Dissolved Solids,202,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/20/1990 08:40,Total Dissolved Solids,250,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/20/1990 11:00,Total Dissolved Solids,256,1.0,mg/L,1,Normal
+Alameda,03/20/1995 09:02,Total Dissolved Solids,288,1.0,mg/L,1,Normal
+Alameda,03/20/1996 08:45,Total Dissolved Solids,174,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/20/2002 08:55,Total Dissolved Solids,202,1.0,mg/L,1,Normal
+Alameda,03/20/2013 08:55,Total Dissolved Solids,245,1.0,mg/L,1,Normal
+Alameda,03/21/1973 12:00,Total Dissolved Solids,396,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/21/1979 10:25,Total Dissolved Solids,224,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/21/1984 09:30,Total Dissolved Solids,218,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/21/2001 09:00,Total Dissolved Solids,262,1.0,mg/L,1,Normal
+Alameda,03/21/2007 08:01,Total Dissolved Solids,211,1.0,mg/L,1,Normal
+Alameda,03/21/2012 09:50,Total Dissolved Solids,336,1.0,mg/L,1,Normal
+Alameda,03/21/2018 07:10,Total Dissolved Solids,273,1.0,mg/L,1,Normal
+Alameda,03/22/2022 06:45,Total Dissolved Solids,271,2.5,mg/L,1,Normal
+Alameda,03/24/1994 10:15,Total Dissolved Solids,292,1.0,mg/L,1,Normal
+Alameda,03/25/1977 09:25,Total Dissolved Solids,505,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/26/1992 09:30,Total Dissolved Solids,204,1.0,mg/L,1,Normal
+Alameda,03/27/1991 14:00,Total Dissolved Solids,312,1.0,mg/L,1,Normal
+Alameda,03/31/1977 08:45,Total Dissolved Solids,512,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/01/1969 23:00,Total Dissolved Solids,166,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/01/1977 13:45,Total Dissolved Solids,509,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/03/1968 06:30,Total Dissolved Solids,273,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/03/2012 13:30,Total Dissolved Solids,287,1.0,mg/L,1,Normal
+Alameda,04/07/1969 10:35,Total Dissolved Solids,126,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/07/1970 23:00,Total Dissolved Solids,248,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/08/1993 10:10,Total Dissolved Solids,282,1.0,mg/L,1,Normal
+Alameda,04/09/1969 10:25,Total Dissolved Solids,128,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/09/1997 10:50,Total Dissolved Solids,194,1.0,mg/L,1,Normal
+Alameda,04/11/1969 10:30,Total Dissolved Solids,119,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/11/1996 10:26,Total Dissolved Solids,235,1.0,mg/L,1,Normal
+Alameda,04/14/1977 09:15,Total Dissolved Solids,513,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/14/2015 07:20,Total Dissolved Solids,287,1.0,mg/L,1,Normal
+Alameda,04/14/2015 07:20,Total Dissolved Solids,288,1.0,mg/L,1,Normal
+Alameda,04/15/1981 09:30,Total Dissolved Solids,218,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/15/1987 09:00,Total Dissolved Solids,248,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/15/1992 09:45,Total Dissolved Solids,213,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/15/1998 06:30,Total Dissolved Solids,399,1.0,mg/L,1,Normal
+Alameda,04/15/2009 08:20,Total Dissolved Solids,206,1.0,mg/L,1,Normal
+Alameda,04/16/1975 10:30,Total Dissolved Solids,189,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/16/1980 10:20,Total Dissolved Solids,184,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/16/1986 10:15,Total Dissolved Solids,137,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/16/1991 07:55,Total Dissolved Solids,194,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/16/1997 06:40,Total Dissolved Solids,161,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/16/2003 07:40,Total Dissolved Solids,187,1.0,mg/L,1,Normal
+Alameda,04/16/2008 08:30,Total Dissolved Solids,307,1.0,mg/L,1,Normal
+Alameda,04/16/2014 08:20,Total Dissolved Solids,254,1.0,mg/L,1,Normal
+Alameda,04/16/2019 07:45,Total Dissolved Solids,112,1.0,mg/L,1,Normal
+Alameda,04/17/1974 10:45,Total Dissolved Solids,202,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/17/1985 10:45,Total Dissolved Solids,205,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/17/1996 06:50,Total Dissolved Solids,219,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/17/2002 07:10,Total Dissolved Solids,168,1.0,mg/L,1,Normal
+Alameda,04/17/2013 09:25,Total Dissolved Solids,387,1.0,mg/L,1,Normal
+Alameda,04/17/2018 08:10,Total Dissolved Solids,133,1.0,mg/L,1,Normal
+Alameda,04/18/1973 12:00,Total Dissolved Solids,352,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/18/1979 10:15,Total Dissolved Solids,239,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/18/1984 08:45,Total Dissolved Solids,174,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/18/1990 08:10,Total Dissolved Solids,375,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/18/2001 07:15,Total Dissolved Solids,220,1.0,mg/L,1,Normal
+Alameda,04/18/2007 08:19,Total Dissolved Solids,169,1.0,mg/L,1,Normal
+Alameda,04/18/2012 11:30,Total Dissolved Solids,267,1.0,mg/L,1,Normal
+Alameda,04/18/2016 07:55,Total Dissolved Solids,251,1.0,mg/L,1,Normal
+Alameda,04/18/2017 08:10,Total Dissolved Solids,101,1.0,mg/L,1,Normal
+Alameda,04/18/2023 08:05,Total Dissolved Solids,95,2.5,mg/L,1,Normal
+Alameda,04/19/1972 12:15,Total Dissolved Solids,145,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/19/1978 10:25,Total Dissolved Solids,212,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/19/1989 08:50,Total Dissolved Solids,137,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/19/1995 07:40,Total Dissolved Solids,269,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/19/2000 06:30,Total Dissolved Solids,155,1.0,mg/L,1,Normal
+Alameda,04/19/2006 08:00,Total Dissolved Solids,101,1.0,mg/L,1,Normal
+Alameda,04/19/2022 07:20,Total Dissolved Solids,268,2.5,mg/L,1,Normal
+Alameda,04/20/1971 18:00,Total Dissolved Solids,202,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/20/1977 11:30,Total Dissolved Solids,516,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/20/1983 10:40,Total Dissolved Solids,210,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/20/1988 08:15,Total Dissolved Solids,250,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/20/1994 09:00,Total Dissolved Solids,322,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/20/1994 09:10,Total Dissolved Solids,286,1.0,mg/L,1,Normal
+Alameda,04/20/2005 07:40,Total Dissolved Solids,199,1.0,mg/L,1,Normal
+Alameda,04/20/2010 09:30,Total Dissolved Solids,321,1.0,mg/L,1,Normal
+Alameda,04/20/2011 09:05,Total Dissolved Solids,85,1.0,mg/L,1,Normal
+Alameda,04/20/2021 08:05,Total Dissolved Solids,363,2.5,mg/L,1,Normal
+Alameda,04/21/1976 13:10,Total Dissolved Solids,209,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/21/1982 10:45,Total Dissolved Solids,125,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/21/1993 07:35,Total Dissolved Solids,224,1.0,mg/L,1,Normal
+Alameda,04/21/1993 08:05,Total Dissolved Solids,224,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/21/1999 07:13,Total Dissolved Solids,179,1.0,mg/L,1,Normal
+Alameda,04/21/2004 07:45,Total Dissolved Solids,166,1.0,mg/L,1,Normal
+Alameda,04/22/1992 07:15,Total Dissolved Solids,224,1.0,mg/L,1,Normal
+Alameda,04/23/1991 08:20,Total Dissolved Solids,201,1.0,mg/L,1,Normal
+Alameda,04/24/1995 08:20,Total Dissolved Solids,255,1.0,mg/L,1,Normal
+Alameda,04/25/1990 08:00,Total Dissolved Solids,377,1.0,mg/L,1,Normal
+Alameda,04/27/1977 08:00,Total Dissolved Solids,518,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/01/1968 12:00,Total Dissolved Solids,172,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/05/1970 17:00,Total Dissolved Solids,183,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/06/1969 23:25,Total Dissolved Solids,136,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/08/2012 09:25,Total Dissolved Solids,269,1.0,mg/L,1,Normal
+Alameda,05/09/1996 10:40,Total Dissolved Solids,208,1.0,mg/L,1,Normal
+Alameda,05/13/1977 12:30,Total Dissolved Solids,548,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/13/1993 09:04,Total Dissolved Solids,272,1.0,mg/L,1,Normal
+Alameda,05/13/1997 11:15,Total Dissolved Solids,254,1.0,mg/L,1,Normal
+Alameda,05/14/2019 07:35,Total Dissolved Solids,97,1.0,mg/L,1,Normal
+Alameda,05/15/1974 10:45,Total Dissolved Solids,160,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/15/1985 09:00,Total Dissolved Solids,175,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/15/1990 07:40,Total Dissolved Solids,385,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/15/1991 07:25,Total Dissolved Solids,233,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/15/1996 06:15,Total Dissolved Solids,206,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/15/2002 06:45,Total Dissolved Solids,222,1.0,mg/L,1,Normal
+Alameda,05/15/2013 08:55,Total Dissolved Solids,164,1.0,mg/L,1,Normal
+Alameda,05/15/2018 07:30,Total Dissolved Solids,134,1.0,mg/L,1,Normal
+Alameda,05/15/2018 07:30,Total Dissolved Solids,135,1.0,mg/L,1,Normal
+Alameda,05/16/1973 11:15,Total Dissolved Solids,195,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/16/1979 09:50,Total Dissolved Solids,158,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/16/1984 09:15,Total Dissolved Solids,184,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/16/1989 07:30,Total Dissolved Solids,155,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/16/2001 06:45,Total Dissolved Solids,246,1.0,mg/L,1,Normal
+Alameda,05/16/2007 08:10,Total Dissolved Solids,204,1.0,mg/L,1,Normal
+Alameda,05/16/2012 09:55,Total Dissolved Solids,254,1.0,mg/L,1,Normal
+Alameda,05/16/2017 08:05,Total Dissolved Solids,64,1.0,mg/L,1,Normal
+Alameda,05/16/2023 07:35,Total Dissolved Solids,70,2.5,mg/L,1,Normal
+Alameda,05/17/1972 11:20,Total Dissolved Solids,129,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/17/1978 10:25,Total Dissolved Solids,156,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/17/2000 06:40,Total Dissolved Solids,212,1.0,mg/L,1,Normal
+Alameda,05/17/2006 07:40,Total Dissolved Solids,88,1.0,mg/L,1,Normal
+Alameda,05/17/2016 06:25,Total Dissolved Solids,216,1.0,mg/L,1,Normal
+Alameda,05/17/2022 07:00,Total Dissolved Solids,238,2.5,mg/L,1,Normal
+Alameda,05/17/2022 07:00,Total Dissolved Solids,240,2.5,mg/L,1,Normal
+Alameda,05/18/1977 11:00,Total Dissolved Solids,530,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/18/1983 09:20,Total Dissolved Solids,248,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/18/1988 09:00,Total Dissolved Solids,236,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/18/1994 06:30,Total Dissolved Solids,297,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/18/1995 10:30,Total Dissolved Solids,120,1.0,mg/L,1,Normal
+Alameda,05/18/2005 07:25,Total Dissolved Solids,148,1.0,mg/L,1,Normal
+Alameda,05/18/2011 07:55,Total Dissolved Solids,93,1.0,mg/L,1,Normal
+Alameda,05/18/2021 07:45,Total Dissolved Solids,297,2.5,mg/L,1,Normal
+Alameda,05/19/1971 18:30,Total Dissolved Solids,160,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/19/1976 13:40,Total Dissolved Solids,146,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/19/1982 09:55,Total Dissolved Solids,101,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/19/1993 07:00,Total Dissolved Solids,279,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/19/1994 09:28,Total Dissolved Solids,286,1.0,mg/L,1,Normal
+Alameda,05/19/1999 07:20,Total Dissolved Solids,164,1.0,mg/L,1,Normal
+Alameda,05/19/2004 08:00,Total Dissolved Solids,247,1.0,mg/L,1,Normal
+Alameda,05/19/2010 08:35,Total Dissolved Solids,197,1.0,mg/L,1,Normal
+Alameda,05/20/1981 10:40,Total Dissolved Solids,185,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/20/1987 11:00,Total Dissolved Solids,195,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/20/1992 07:10,Total Dissolved Solids,238,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/20/1998 06:00,Total Dissolved Solids,212,1.0,mg/L,1,Normal
+Alameda,05/20/2009 08:00,Total Dissolved Solids,215,1.0,mg/L,1,Normal
+Alameda,05/20/2015 07:05,Total Dissolved Solids,367,1.0,mg/L,1,Normal
+Alameda,05/21/1975 10:30,Total Dissolved Solids,130,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/21/1980 10:30,Total Dissolved Solids,134,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/21/1986 09:00,Total Dissolved Solids,186,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/21/1991 10:50,Total Dissolved Solids,244,1.0,mg/L,1,Normal
+Alameda,05/21/1992 08:43,Total Dissolved Solids,233,1.0,mg/L,1,Normal
+Alameda,05/21/1997 07:05,Total Dissolved Solids,279,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/21/2003 06:00,Total Dissolved Solids,277,1.0,mg/L,1,Normal
+Alameda,05/21/2008 09:05,Total Dissolved Solids,226,1.0,mg/L,1,Normal
+Alameda,05/21/2014 08:05,Total Dissolved Solids,281,1.0,mg/L,1,Normal
+Alameda,05/22/1995 06:30,Total Dissolved Solids,114,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/23/1990 10:35,Total Dissolved Solids,363,1.0,mg/L,1,Normal
+Alameda,05/24/1977 07:55,Total Dissolved Solids,515,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/04/1969 08:50,Total Dissolved Solids,80,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/04/1992 09:15,Total Dissolved Solids,276,1.0,mg/L,1,Normal
+Alameda,06/04/1997 09:28,Total Dissolved Solids,211,1.0,mg/L,1,Normal
+Alameda,06/05/1968 08:30,Total Dissolved Solids,157,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/05/2012 10:30,Total Dissolved Solids,181,1.0,mg/L,1,Normal
+Alameda,06/07/2011 09:40,Total Dissolved Solids,128,1.0,mg/L,1,Normal
+Alameda,06/09/1970 18:45,Total Dissolved Solids,192,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/09/1977 15:30,Total Dissolved Solids,506,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/10/1993 08:47,Total Dissolved Solids,227,1.0,mg/L,1,Normal
+Alameda,06/10/2004 10:35,Total Dissolved Solids,177,1.0,mg/L,1,Normal
+Alameda,06/10/2004 10:35,Total Dissolved Solids,180,1.0,mg/L,1,Normal
+Alameda,06/13/1996 12:25,Total Dissolved Solids,125,1.0,mg/L,1,Normal
+Alameda,06/14/2016 07:55,Total Dissolved Solids,169,1.0,mg/L,1,Normal
+Alameda,06/14/2022 06:55,Total Dissolved Solids,234,2.5,mg/L,1,Normal
+Alameda,06/15/1977 09:30,Total Dissolved Solids,469,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/15/1983 10:45,Total Dissolved Solids,98,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/15/1988 08:35,Total Dissolved Solids,286,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/15/1994 07:00,Total Dissolved Solids,308,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/15/2005 07:30,Total Dissolved Solids,113,1.0,mg/L,1,Normal
+Alameda,06/15/2011 09:15,Total Dissolved Solids,111,1.0,mg/L,1,Normal
+Alameda,06/15/2021 06:45,Total Dissolved Solids,335,2.5,mg/L,1,Normal
+Alameda,06/16/1971 09:45,Total Dissolved Solids,174,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/16/1976 12:30,Total Dissolved Solids,222,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/16/1982 09:45,Total Dissolved Solids,173,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/16/1993 06:30,Total Dissolved Solids,221,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/16/1999 08:00,Total Dissolved Solids,182,1.0,mg/L,1,Normal
+Alameda,06/16/2004 07:40,Total Dissolved Solids,204,1.0,mg/L,1,Normal
+Alameda,06/16/2009 15:45,Total Dissolved Solids,229,1.0,mg/L,1,Normal
+Alameda,06/16/2010 08:20,Total Dissolved Solids,140,1.0,mg/L,1,Normal
+Alameda,06/17/1981 09:30,Total Dissolved Solids,194,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/17/1987 08:10,Total Dissolved Solids,351,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/17/1992 07:40,Total Dissolved Solids,366,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/17/1998 07:05,Total Dissolved Solids,117,1.0,mg/L,1,Normal
+Alameda,06/17/1998 07:05,Total Dissolved Solids,118,1.0,mg/L,1,Normal
+Alameda,06/17/2015 07:30,Total Dissolved Solids,459,1.0,mg/L,1,Normal
+Alameda,06/17/2015 07:30,Total Dissolved Solids,460,1.0,mg/L,1,Normal
+Alameda,06/18/1975 10:00,Total Dissolved Solids,162,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/18/1980 09:50,Total Dissolved Solids,172,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/18/1986 09:30,Total Dissolved Solids,162,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/18/1997 12:00,Total Dissolved Solids,179,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/18/2003 06:30,Total Dissolved Solids,104,1.0,mg/L,1,Normal
+Alameda,06/18/2008 08:35,Total Dissolved Solids,309,1.0,mg/L,1,Normal
+Alameda,06/18/2014 08:20,Total Dissolved Solids,305,1.0,mg/L,1,Normal
+Alameda,06/19/1974 09:45,Total Dissolved Solids,112,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/19/1985 09:00,Total Dissolved Solids,224,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/19/1990 08:10,Total Dissolved Solids,350,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/19/1991 08:05,Total Dissolved Solids,342,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/19/1996 05:45,Total Dissolved Solids,141,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/19/2002 07:00,Total Dissolved Solids,173,1.0,mg/L,1,Normal
+Alameda,06/19/2013 08:15,Total Dissolved Solids,221,1.0,mg/L,1,Normal
+Alameda,06/19/2013 08:15,Total Dissolved Solids,223,1.0,mg/L,1,Normal
+Alameda,06/19/2017 14:15,Total Dissolved Solids,76,1.0,mg/L,1,Normal
+Alameda,06/19/2018 07:55,Total Dissolved Solids,173,1.0,mg/L,1,Normal
+Alameda,06/19/2019 07:10,Total Dissolved Solids,81,1.0,mg/L,1,Normal
+Alameda,06/20/1973 10:15,Total Dissolved Solids,152,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/20/1979 10:00,Total Dissolved Solids,160,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/20/1984 09:20,Total Dissolved Solids,153,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/20/1989 08:50,Total Dissolved Solids,189,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/20/2007 08:20,Total Dissolved Solids,345,1.0,mg/L,1,Normal
+Alameda,06/20/2012 09:25,Total Dissolved Solids,177,1.0,mg/L,1,Normal
+Alameda,06/20/2023 07:05,Total Dissolved Solids,56,2.5,mg/L,1,Normal
+Alameda,06/21/1972 11:15,Total Dissolved Solids,232,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/21/1978 11:20,Total Dissolved Solids,128,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/21/1995 07:45,Total Dissolved Solids,127,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/21/2000 06:50,Total Dissolved Solids,170,1.0,mg/L,1,Normal
+Alameda,06/21/2006 09:40,Total Dissolved Solids,74,1.0,mg/L,1,Normal
+Alameda,06/22/1994 10:20,Total Dissolved Solids,318,1.0,mg/L,1,Normal
+Alameda,06/22/1995 09:55,Total Dissolved Solids,136,1.0,mg/L,1,Normal
+Alameda,06/23/1977 14:30,Total Dissolved Solids,504,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/25/1991 12:50,Total Dissolved Solids,352,1.0,mg/L,1,Normal
+Alameda,06/25/1992 10:15,Total Dissolved Solids,384,1.0,mg/L,1,Normal
+Alameda,06/27/1990 09:15,Total Dissolved Solids,319,1.0,mg/L,1,Normal
+Alameda,06/30/1977 07:00,Total Dissolved Solids,512,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/02/1986 08:05,Total Dissolved Solids,231,1.0,mg/L,1,Normal
+Alameda,07/02/1997 12:30,Total Dissolved Solids,164,1.0,mg/L,1,Normal
+Alameda,07/03/1968 12:00,Total Dissolved Solids,204,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/06/2011 10:00,Total Dissolved Solids,102,1.0,mg/L,1,Normal
+Alameda,07/07/1970 15:30,Total Dissolved Solids,203,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/08/1969 20:00,Total Dissolved Solids,160,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/08/1977 12:00,Total Dissolved Solids,553,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/08/1993 07:35,Total Dissolved Solids,130,1.0,mg/L,1,Normal
+Alameda,07/10/2012 11:45,Total Dissolved Solids,150,1.0,mg/L,1,Normal
+Alameda,07/10/2012 11:45,Total Dissolved Solids,151,1.0,mg/L,1,Normal
+Alameda,07/13/1977 12:15,Total Dissolved Solids,629,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/14/2009 15:00,Total Dissolved Solids,129,1.0,mg/L,1,Normal
+Alameda,07/15/1981 10:15,Total Dissolved Solids,196,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/15/1987 09:30,Total Dissolved Solids,270,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/15/1992 07:45,Total Dissolved Solids,413,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/15/1998 07:45,Total Dissolved Solids,85,1.0,mg/L,1,Normal
+Alameda,07/15/2014 07:25,Total Dissolved Solids,370,1.0,mg/L,1,Normal
+Alameda,07/15/2015 08:00,Total Dissolved Solids,460,1.0,mg/L,1,Normal
+Alameda,07/16/1975 12:10,Total Dissolved Solids,181,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/16/1980 10:35,Total Dissolved Solids,150,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/16/1986 09:00,Total Dissolved Solids,155,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/16/1991 07:40,Total Dissolved Solids,323,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/16/1997 12:00,Total Dissolved Solids,150,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/16/2003 06:30,Total Dissolved Solids,115,1.0,mg/L,1,Normal
+Alameda,07/16/2008 08:00,Total Dissolved Solids,171,1.0,mg/L,1,Normal
+Alameda,07/16/2019 08:00,Total Dissolved Solids,97,1.0,mg/L,1,Normal
+Alameda,07/16/2019 08:00,Total Dissolved Solids,98,1.0,mg/L,1,Normal
+Alameda,07/17/1974 12:00,Total Dissolved Solids,112,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/17/1985 09:00,Total Dissolved Solids,224,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/17/1996 06:45,Total Dissolved Solids,109,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/17/2002 06:37,Total Dissolved Solids,181,1.0,mg/L,1,Normal
+Alameda,07/17/2013 09:15,Total Dissolved Solids,182,1.0,mg/L,1,Normal
+Alameda,07/17/2018 07:20,Total Dissolved Solids,140,1.0,mg/L,1,Normal
+Alameda,07/18/1973 10:00,Total Dissolved Solids,288,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/18/1979 09:00,Total Dissolved Solids,164,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/18/1984 08:40,Total Dissolved Solids,138,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/18/1989 07:30,Total Dissolved Solids,175,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/18/1990 07:35,Total Dissolved Solids,218,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/18/1996 12:20,Total Dissolved Solids,116,1.0,mg/L,1,Normal
+Alameda,07/18/2001 06:43,Total Dissolved Solids,199,1.0,mg/L,1,Normal
+Alameda,07/18/2007 07:55,Total Dissolved Solids,150,1.0,mg/L,1,Normal
+Alameda,07/18/2012 08:45,Total Dissolved Solids,136,1.0,mg/L,1,Normal
+Alameda,07/18/2017 08:10,Total Dissolved Solids,80,1.0,mg/L,1,Normal
+Alameda,07/18/2023 07:35,Total Dissolved Solids,92,2.5,mg/L,1,Normal
+Alameda,07/19/1978 09:50,Total Dissolved Solids,147,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/19/1988 09:00,Total Dissolved Solids,346,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/19/1995 07:45,Total Dissolved Solids,97,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/19/2000 08:40,Total Dissolved Solids,137,1.0,mg/L,1,Normal
+Alameda,07/19/2006 07:50,Total Dissolved Solids,103,1.0,mg/L,1,Normal
+Alameda,07/19/2011 13:30,Total Dissolved Solids,92,1.0,mg/L,1,Normal
+Alameda,07/19/2016 08:00,Total Dissolved Solids,160,1.0,mg/L,1,Normal
+Alameda,07/20/1971 18:20,Total Dissolved Solids,106,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/20/1977 08:45,Total Dissolved Solids,613,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/20/1983 09:10,Total Dissolved Solids,94,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/20/1993 09:40,Total Dissolved Solids,102,1.0,mg/L,1,Normal
+Alameda,07/20/1994 07:30,Total Dissolved Solids,294,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/20/1994 09:45,Total Dissolved Solids,296,1.0,mg/L,1,Normal
+Alameda,07/20/1995 10:38,Total Dissolved Solids,101,1.0,mg/L,1,Normal
+Alameda,07/20/2005 06:35,Total Dissolved Solids,108,1.0,mg/L,1,Normal
+Alameda,07/20/2021 07:20,Total Dissolved Solids,401,2.5,mg/L,1,Normal
+Alameda,07/21/1976 12:30,Total Dissolved Solids,288,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/21/1982 09:20,Total Dissolved Solids,190,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/21/1993 08:25,Total Dissolved Solids,94,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/21/1999 07:30,Total Dissolved Solids,123,1.0,mg/L,1,Normal
+Alameda,07/21/2004 07:55,Total Dissolved Solids,163,1.0,mg/L,1,Normal
+Alameda,07/21/2010 08:25,Total Dissolved Solids,108,1.0,mg/L,1,Normal
+Alameda,07/22/1992 08:13,Total Dissolved Solids,416,1.0,mg/L,1,Normal
+Alameda,07/24/1972 11:00,Total Dissolved Solids,359,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/24/1991 07:38,Total Dissolved Solids,328,1.0,mg/L,1,Normal
+Alameda,07/25/1989 09:00,Total Dissolved Solids,190,1.0,mg/L,1,Normal
+Alameda,07/26/1977 12:00,Total Dissolved Solids,670,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/26/1990 10:10,Total Dissolved Solids,243,1.0,mg/L,1,Normal
+Alameda,07/26/2022 07:05,Total Dissolved Solids,307,2.5,mg/L,1,Normal
+Alameda,08/02/1977 11:20,Total Dissolved Solids,709,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/03/2011 11:35,Total Dissolved Solids,96,1.0,mg/L,1,Normal
+Alameda,08/04/1970 16:15,Total Dissolved Solids,236,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/05/1969 19:30,Total Dissolved Solids,120,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/07/1968 12:00,Total Dissolved Solids,359,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/07/2012 13:48,Total Dissolved Solids,180,1.0,mg/L,1,Normal
+Alameda,08/09/1977 07:30,Total Dissolved Solids,727,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/10/1993 09:45,Total Dissolved Solids,104,1.0,mg/L,1,Normal
+Alameda,08/14/1990 06:30,Total Dissolved Solids,248,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/14/2018 07:25,Total Dissolved Solids,136,1.0,mg/L,1,Normal
+Alameda,08/14/2018 07:25,Total Dissolved Solids,139,1.0,mg/L,1,Normal
+Alameda,08/15/1973 10:00,Total Dissolved Solids,293,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/15/1979 09:00,Total Dissolved Solids,261,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/15/1984 07:50,Total Dissolved Solids,115,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/15/1989 07:15,Total Dissolved Solids,191,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/15/1996 09:51,Total Dissolved Solids,135,1.0,mg/L,1,Normal
+Alameda,08/15/2001 07:30,Total Dissolved Solids,274,1.0,mg/L,1,Normal
+Alameda,08/15/2007 07:50,Total Dissolved Solids,255,1.0,mg/L,1,Normal
+Alameda,08/15/2017 08:00,Total Dissolved Solids,104,1.0,mg/L,1,Normal
+Alameda,08/15/2023 09:55,Total Dissolved Solids,108,2.5,mg/L,1,Normal
+Alameda,08/16/1972 11:30,Total Dissolved Solids,286,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/16/1977 06:55,Total Dissolved Solids,708,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/16/1978 10:20,Total Dissolved Solids,224,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/16/1995 06:25,Total Dissolved Solids,121,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/16/2000 06:45,Total Dissolved Solids,130,1.0,mg/L,1,Normal
+Alameda,08/16/2006 07:35,Total Dissolved Solids,128,1.0,mg/L,1,Normal
+Alameda,08/16/2016 07:55,Total Dissolved Solids,173,1.0,mg/L,1,Normal
+Alameda,08/17/1977 09:45,Total Dissolved Solids,720,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/17/1983 09:30,Total Dissolved Solids,145,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/17/1987 11:15,Total Dissolved Solids,359,1.0,mg/L,1,Normal
+Alameda,08/17/1988 08:50,Total Dissolved Solids,367,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/17/1994 07:40,Total Dissolved Solids,294,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/17/1995 09:15,Total Dissolved Solids,122,1.0,mg/L,1,Normal
+Alameda,08/17/2005 07:50,Total Dissolved Solids,154,1.0,mg/L,1,Normal
+Alameda,08/17/2011 07:55,Total Dissolved Solids,120,1.0,mg/L,1,Normal
+Alameda,08/17/2021 07:10,Total Dissolved Solids,357,2.5,mg/L,1,Normal
+Alameda,08/18/1971 11:45,Total Dissolved Solids,116,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/18/1976 12:35,Total Dissolved Solids,254,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/18/1982 08:30,Total Dissolved Solids,141,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/18/1993 06:50,Total Dissolved Solids,100,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/18/1999 06:35,Total Dissolved Solids,127,1.0,mg/L,1,Normal
+Alameda,08/18/2004 07:40,Total Dissolved Solids,196,1.0,mg/L,1,Normal
+Alameda,08/18/2009 15:40,Total Dissolved Solids,237,1.0,mg/L,1,Normal
+Alameda,08/18/2010 08:30,Total Dissolved Solids,154,1.0,mg/L,1,Normal
+Alameda,08/19/1981 08:10,Total Dissolved Solids,266,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/19/1987 08:00,Total Dissolved Solids,332,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/19/1992 06:50,Total Dissolved Solids,420,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/19/1992 08:05,Total Dissolved Solids,394,1.0,mg/L,1,Normal
+Alameda,08/19/1998 05:50,Total Dissolved Solids,118,1.0,mg/L,1,Normal
+Alameda,08/19/2015 07:40,Total Dissolved Solids,450,1.0,mg/L,1,Normal
+Alameda,08/19/2015 07:40,Total Dissolved Solids,451,1.0,mg/L,1,Normal
+Alameda,08/20/1975 11:00,Total Dissolved Solids,112,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/20/1980 10:00,Total Dissolved Solids,136,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/20/1986 09:45,Total Dissolved Solids,175,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/20/1997 12:00,Total Dissolved Solids,150,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/20/2003 08:10,Total Dissolved Solids,128,1.0,mg/L,1,Normal
+Alameda,08/20/2008 08:05,Total Dissolved Solids,258,1.0,mg/L,1,Normal
+Alameda,08/20/2014 06:40,Total Dissolved Solids,314,1.0,mg/L,1,Normal
+Alameda,08/20/2019 07:55,Total Dissolved Solids,122,1.0,mg/L,1,Normal
+Alameda,08/21/1974 11:40,Total Dissolved Solids,148,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/21/1985 09:15,Total Dissolved Solids,272,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/21/1991 07:17,Total Dissolved Solids,264,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/21/1991 07:19,Total Dissolved Solids,270,1.0,mg/L,1,Normal
+Alameda,08/21/1996 06:20,Total Dissolved Solids,135,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/21/2002 05:19,Total Dissolved Solids,321,1.0,mg/L,1,Normal
+Alameda,08/21/2013 09:35,Total Dissolved Solids,275,1.0,mg/L,1,Normal
+Alameda,08/21/2013 09:35,Total Dissolved Solids,276,1.0,mg/L,1,Normal
+Alameda,08/22/1990 12:40,Total Dissolved Solids,220,1.0,mg/L,1,Normal
+Alameda,08/22/2012 07:50,Total Dissolved Solids,198,1.0,mg/L,1,Normal
+Alameda,08/23/1977 09:15,Total Dissolved Solids,675,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/23/2022 07:05,Total Dissolved Solids,250,2.5,mg/L,1,Normal
+Alameda,08/25/1994 10:30,Total Dissolved Solids,290,1.0,mg/L,1,Normal
+Alameda,08/26/2020 08:50,Total Dissolved Solids,229,1.0,mg/L,1,Normal
+Alameda,08/30/1977 08:00,Total Dissolved Solids,685,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/01/1970 18:10,Total Dissolved Solids,179,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/01/1993 08:55,Total Dissolved Solids,114,1.0,mg/L,1,Normal
+Alameda,09/03/1969 06:50,Total Dissolved Solids,139,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/04/1968 06:00,Total Dissolved Solids,220,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/04/2012 13:10,Total Dissolved Solids,246,1.0,mg/L,1,Normal
+Alameda,09/06/1977 10:15,Total Dissolved Solids,696,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/07/1976 09:15,Total Dissolved Solids,254,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/07/2011 11:45,Total Dissolved Solids,117,1.0,mg/L,1,Normal
+Alameda,09/10/1991 08:30,Total Dissolved Solids,263,1.0,mg/L,1,Normal
+Alameda,09/12/1977 10:00,Total Dissolved Solids,665,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/12/1996 12:30,Total Dissolved Solids,143,1.0,mg/L,1,Normal
+Alameda,09/14/1995 09:43,Total Dissolved Solids,134,1.0,mg/L,1,Normal
+Alameda,09/14/2021 07:15,Total Dissolved Solids,321,2.5,mg/L,1,Normal
+Alameda,09/14/2021 07:15,Total Dissolved Solids,326,2.5,mg/L,1,Normal
+Alameda,09/15/1971 11:30,Total Dissolved Solids,111,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/15/1976 11:30,Total Dissolved Solids,258,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/15/1982 09:00,Total Dissolved Solids,156,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/15/1993 07:50,Total Dissolved Solids,133,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/15/1999 09:55,Total Dissolved Solids,226,1.0,mg/L,1,Normal
+Alameda,09/15/1999 09:55,Total Dissolved Solids,228,1.0,mg/L,1,Normal
+Alameda,09/15/2004 08:02,Total Dissolved Solids,234,1.0,mg/L,1,Normal
+Alameda,09/15/2010 08:30,Total Dissolved Solids,306,1.0,mg/L,1,Normal
+Alameda,09/16/1981 09:10,Total Dissolved Solids,370,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/16/1987 08:20,Total Dissolved Solids,356,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/16/1992 08:00,Total Dissolved Solids,346,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/16/1998 08:00,Total Dissolved Solids,139,1.0,mg/L,1,Normal
+Alameda,09/16/2009 08:35,Total Dissolved Solids,280,1.0,mg/L,1,Normal
+Alameda,09/16/2015 07:40,Total Dissolved Solids,362,1.0,mg/L,1,Normal
+Alameda,09/16/2020 08:30,Total Dissolved Solids,352,1.0,mg/L,1,Normal
+Alameda,09/17/1975 11:45,Total Dissolved Solids,130,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/17/1980 09:10,Total Dissolved Solids,192,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/17/1986 09:15,Total Dissolved Solids,176,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/17/1997 12:00,Total Dissolved Solids,144,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/17/2003 07:40,Total Dissolved Solids,200,1.0,mg/L,1,Normal
+Alameda,09/17/2008 08:50,Total Dissolved Solids,325,1.0,mg/L,1,Normal
+Alameda,09/17/2014 07:20,Total Dissolved Solids,315,1.0,mg/L,1,Normal
+Alameda,09/17/2019 07:20,Total Dissolved Solids,105,1.0,mg/L,1,Normal
+Alameda,09/18/1974 10:30,Total Dissolved Solids,134,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/18/1985 09:45,Total Dissolved Solids,344,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/18/1990 08:10,Total Dissolved Solids,237,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/18/1991 08:30,Total Dissolved Solids,276,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/18/1996 06:40,Total Dissolved Solids,132,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/18/2002 05:00,Total Dissolved Solids,409,1.0,mg/L,1,Normal
+Alameda,09/18/2013 09:25,Total Dissolved Solids,334,1.0,mg/L,1,Normal
+Alameda,09/19/1973 11:30,Total Dissolved Solids,191,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/19/1979 09:30,Total Dissolved Solids,392,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/19/1984 08:20,Total Dissolved Solids,139,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/19/1989 08:30,Total Dissolved Solids,278,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/19/2001 07:05,Total Dissolved Solids,381,1.0,mg/L,1,Normal
+Alameda,09/19/2007 08:40,Total Dissolved Solids,335,1.0,mg/L,1,Normal
+Alameda,09/19/2012 09:45,Total Dissolved Solids,353,1.0,mg/L,1,Normal
+Alameda,09/19/2018 06:55,Total Dissolved Solids,314,1.0,mg/L,1,Normal
+Alameda,09/19/2018 06:55,Total Dissolved Solids,315,1.0,mg/L,1,Normal
+Alameda,09/20/1972 12:10,Total Dissolved Solids,166,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/20/1978 10:10,Total Dissolved Solids,200,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/20/1988 08:30,Total Dissolved Solids,386,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/20/1995 06:50,Total Dissolved Solids,134,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/20/2000 07:30,Total Dissolved Solids,183,1.0,mg/L,1,Normal
+Alameda,09/20/2006 08:57,Total Dissolved Solids,142,1.0,mg/L,1,Normal
+Alameda,09/20/2016 08:05,Total Dissolved Solids,333,1.0,mg/L,1,Normal
+Alameda,09/20/2017 07:20,Total Dissolved Solids,110,1.0,mg/L,1,Normal
+Alameda,09/20/2022 07:10,Total Dissolved Solids,240,2.5,mg/L,1,Normal
+Alameda,09/21/1976 14:15,Total Dissolved Solids,267,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/21/1977 09:26,Total Dissolved Solids,685,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/21/1983 10:10,Total Dissolved Solids,116,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/21/1993 09:10,Total Dissolved Solids,145,1.0,mg/L,1,Normal
+Alameda,09/21/1994 06:50,Total Dissolved Solids,351,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/21/2005 06:45,Total Dissolved Solids,219,1.0,mg/L,1,Normal
+Alameda,09/21/2011 08:15,Total Dissolved Solids,118,1.0,mg/L,1,Normal
+Alameda,09/22/1994 10:30,Total Dissolved Solids,356,1.0,mg/L,1,Normal
+Alameda,09/24/1990 11:00,Total Dissolved Solids,278,1.0,mg/L,1,Normal
+Alameda,09/24/1992 08:35,Total Dissolved Solids,348,1.0,mg/L,1,Normal
+Alameda,09/27/1976 14:00,Total Dissolved Solids,303,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/27/1977 08:30,Total Dissolved Solids,690,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/01/1976 09:10,Total Dissolved Solids,320,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/01/2012 08:45,Total Dissolved Solids,355,1.0,mg/L,1,Normal
+Alameda,10/02/1968 12:00,Total Dissolved Solids,202,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/03/1977 10:25,Total Dissolved Solids,689,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/04/2011 13:05,Total Dissolved Solids,131,1.0,mg/L,1,Normal
+Alameda,10/06/1970 17:30,Total Dissolved Solids,176,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/07/1969 20:45,Total Dissolved Solids,192,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/07/1992 08:05,Total Dissolved Solids,368,1.0,mg/L,1,Normal
+Alameda,10/10/1996 09:53,Total Dissolved Solids,158,1.0,mg/L,1,Normal
+Alameda,10/11/1977 12:40,Total Dissolved Solids,753,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/14/1993 10:00,Total Dissolved Solids,188,1.0,mg/L,1,Normal
+Alameda,10/15/1975 11:40,Total Dissolved Solids,179,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/15/1980 09:30,Total Dissolved Solids,152,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/15/1986 08:10,Total Dissolved Solids,152,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/15/1997 12:34,Total Dissolved Solids,276,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/15/2003 07:50,Total Dissolved Solids,302,1.0,mg/L,1,Normal
+Alameda,10/15/2008 08:50,Total Dissolved Solids,308,1.0,mg/L,1,Normal
+Alameda,10/15/2014 06:50,Total Dissolved Solids,342,1.0,mg/L,1,Normal
+Alameda,10/15/2014 06:50,Total Dissolved Solids,343,1.0,mg/L,1,Normal
+Alameda,10/15/2019 07:50,Total Dissolved Solids,110,1.0,mg/L,1,Normal
+Alameda,10/16/1974 11:50,Total Dissolved Solids,167,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/16/1985 10:00,Total Dissolved Solids,295,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/16/1990 07:25,Total Dissolved Solids,340,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/16/1991 08:30,Total Dissolved Solids,160,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/16/1996 06:50,Total Dissolved Solids,179,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/16/2002 06:40,Total Dissolved Solids,398,1.0,mg/L,1,Normal
+Alameda,10/16/2018 07:25,Total Dissolved Solids,293,1.0,mg/L,1,Normal
+Alameda,10/17/1973 10:45,Total Dissolved Solids,155,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/17/1977 11:00,Total Dissolved Solids,722,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/17/1979 10:00,Total Dissolved Solids,257,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/17/1984 08:30,Total Dissolved Solids,166,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/17/1989 07:45,Total Dissolved Solids,272,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/17/2001 07:45,Total Dissolved Solids,356,1.0,mg/L,1,Normal
+Alameda,10/17/2007 08:12,Total Dissolved Solids,297,1.0,mg/L,1,Normal
+Alameda,10/17/2012 09:05,Total Dissolved Solids,285,1.0,mg/L,1,Normal
+Alameda,10/17/2017 08:05,Total Dissolved Solids,111,1.0,mg/L,1,Normal
+Alameda,10/18/1972 12:30,Total Dissolved Solids,167,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/18/1978 10:00,Total Dissolved Solids,165,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/18/1993 07:30,Total Dissolved Solids,184,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/18/1995 08:10,Total Dissolved Solids,122,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/18/2000 06:50,Total Dissolved Solids,248,1.0,mg/L,1,Normal
+Alameda,10/18/2006 09:25,Total Dissolved Solids,145,1.0,mg/L,1,Normal
+Alameda,10/18/2011 08:35,Total Dissolved Solids,118,1.0,mg/L,1,Normal
+Alameda,10/18/2016 08:10,Total Dissolved Solids,318,1.0,mg/L,1,Normal
+Alameda,10/18/2022 07:15,Total Dissolved Solids,257,2.5,mg/L,1,Normal
+Alameda,10/18/2022 07:15,Total Dissolved Solids,259,2.5,mg/L,1,Normal
+Alameda,10/19/1977 10:15,Total Dissolved Solids,737,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/19/1983 09:05,Total Dissolved Solids,125,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/19/1988 08:20,Total Dissolved Solids,399,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/19/1994 08:10,Total Dissolved Solids,286,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/19/1995 10:30,Total Dissolved Solids,124,1.0,mg/L,1,Normal
+Alameda,10/19/2005 06:30,Total Dissolved Solids,207,1.0,mg/L,1,Normal
+Alameda,10/19/2021 07:45,Total Dissolved Solids,309,2.5,mg/L,1,Normal
+Alameda,10/20/1971 12:15,Total Dissolved Solids,146,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/20/1976 11:30,Total Dissolved Solids,311,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/20/1981 08:20,Total Dissolved Solids,269,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/20/1982 10:00,Total Dissolved Solids,117,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/20/1993 08:25,Total Dissolved Solids,183,1.0,mg/L,1,Normal
+Alameda,10/20/1994 09:40,Total Dissolved Solids,287,1.0,mg/L,1,Normal
+Alameda,10/20/1999 06:45,Total Dissolved Solids,293,1.0,mg/L,1,Normal
+Alameda,10/20/2004 07:40,Total Dissolved Solids,309,1.0,mg/L,1,Normal
+Alameda,10/20/2010 07:55,Total Dissolved Solids,260,1.0,mg/L,1,Normal
+Alameda,10/20/2015 07:25,Total Dissolved Solids,366,1.0,mg/L,1,Normal
+Alameda,10/20/2015 07:25,Total Dissolved Solids,367,1.0,mg/L,1,Normal
+Alameda,10/20/2020 08:00,Total Dissolved Solids,289,1.0,mg/L,1,Normal
+Alameda,10/21/1987 09:00,Total Dissolved Solids,462,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/21/1992 07:35,Total Dissolved Solids,378,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/21/1998 06:25,Total Dissolved Solids,133,1.0,mg/L,1,Normal
+Alameda,10/21/2009 08:00,Total Dissolved Solids,261,1.0,mg/L,1,Normal
+Alameda,10/22/2013 09:10,Total Dissolved Solids,273,1.0,mg/L,1,Normal
+Alameda,10/23/1991 07:35,Total Dissolved Solids,252,1.0,mg/L,1,Normal
+Alameda,10/24/1990 08:58,Total Dissolved Solids,370,1.0,mg/L,1,Normal
+Alameda,10/25/1976 10:00,Total Dissolved Solids,286,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/25/1977 15:10,Total Dissolved Solids,726,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/03/1976 11:15,Total Dissolved Solids,314,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/03/1977 13:00,Total Dissolved Solids,738,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/04/1969 18:45,Total Dissolved Solids,174,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/04/1970 16:45,Total Dissolved Solids,177,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/05/2012 11:40,Total Dissolved Solids,256,1.0,mg/L,1,Normal
+Alameda,11/06/1968 11:00,Total Dissolved Solids,225,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/08/1977 08:40,Total Dissolved Solids,730,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/08/2011 11:00,Total Dissolved Solids,106,1.0,mg/L,1,Normal
+Alameda,11/10/1993 10:50,Total Dissolved Solids,212,1.0,mg/L,1,Normal
+Alameda,11/13/1990 08:00,Total Dissolved Solids,398,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/13/1990 12:25,Total Dissolved Solids,394,1.0,mg/L,1,Normal
+Alameda,11/14/1973 11:30,Total Dissolved Solids,192,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/14/1984 09:55,Total Dissolved Solids,122,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/14/1989 09:00,Total Dissolved Solids,311,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/14/1996 12:35,Total Dissolved Solids,199,1.0,mg/L,1,Normal
+Alameda,11/14/2001 10:00,Total Dissolved Solids,308,1.0,mg/L,1,Normal
+Alameda,11/14/2007 08:10,Total Dissolved Solids,283,1.0,mg/L,1,Normal
+Alameda,11/14/2012 09:50,Total Dissolved Solids,252,1.0,mg/L,1,Normal
+Alameda,11/14/2017 08:35,Total Dissolved Solids,135,1.0,mg/L,1,Normal
+Alameda,11/14/2018 08:35,Total Dissolved Solids,281,1.0,mg/L,1,Normal
+Alameda,11/15/1972 13:05,Total Dissolved Solids,312,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/15/1978 09:30,Total Dissolved Solids,118,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/15/1988 09:00,Total Dissolved Solids,465,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/15/1995 07:40,Total Dissolved Solids,118,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/15/2000 08:05,Total Dissolved Solids,300,1.0,mg/L,1,Normal
+Alameda,11/15/2000 08:05,Total Dissolved Solids,307,1.0,mg/L,1,Normal
+Alameda,11/15/2006 08:01,Total Dissolved Solids,188,1.0,mg/L,1,Normal
+Alameda,11/15/2011 09:05,Total Dissolved Solids,135,1.0,mg/L,1,Normal
+Alameda,11/15/2016 08:20,Total Dissolved Solids,281,1.0,mg/L,1,Normal
+Alameda,11/15/2022 09:10,Total Dissolved Solids,301,2.5,mg/L,1,Normal
+Alameda,11/16/1977 10:30,Total Dissolved Solids,742,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/16/1977 10:50,Total Dissolved Solids,763,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/16/1983 10:00,Total Dissolved Solids,156,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/16/1994 07:30,Total Dissolved Solids,308,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/16/1995 11:00,Total Dissolved Solids,132,1.0,mg/L,1,Normal
+Alameda,11/16/2005 08:35,Total Dissolved Solids,270,1.0,mg/L,1,Normal
+Alameda,11/16/2021 08:45,Total Dissolved Solids,273,2.5,mg/L,1,Normal
+Alameda,11/17/1971 12:30,Total Dissolved Solids,130,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/17/1976 13:00,Total Dissolved Solids,320,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/17/1982 11:15,Total Dissolved Solids,154,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/17/1993 07:45,Total Dissolved Solids,261,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/17/1994 10:10,Total Dissolved Solids,308,1.0,mg/L,1,Normal
+Alameda,11/17/1999 07:25,Total Dissolved Solids,242,1.0,mg/L,1,Normal
+Alameda,11/17/2004 07:50,Total Dissolved Solids,248,1.0,mg/L,1,Normal
+Alameda,11/17/2010 08:00,Total Dissolved Solids,250,1.0,mg/L,1,Normal
+Alameda,11/17/2020 08:50,Total Dissolved Solids,320,2.5,mg/L,1,Normal
+Alameda,11/18/1981 09:35,Total Dissolved Solids,299,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/18/1987 09:50,Total Dissolved Solids,457,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/18/1992 08:45,Total Dissolved Solids,406,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/18/1998 08:20,Total Dissolved Solids,146,1.0,mg/L,1,Normal
+Alameda,11/18/2009 08:45,Total Dissolved Solids,225,1.0,mg/L,1,Normal
+Alameda,11/18/2019 14:30,Total Dissolved Solids,155,1.0,mg/L,1,Normal
+Alameda,11/19/1975 12:00,Total Dissolved Solids,126,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/19/1980 10:30,Total Dissolved Solids,156,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/19/1986 10:15,Total Dissolved Solids,136,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/19/1991 08:30,Total Dissolved Solids,340,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/19/1992 10:30,Total Dissolved Solids,409,1.0,mg/L,1,Normal
+Alameda,11/19/1997 12:34,Total Dissolved Solids,276,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/19/2003 07:40,Total Dissolved Solids,281,1.0,mg/L,1,Normal
+Alameda,11/19/2008 08:50,Total Dissolved Solids,298,1.0,mg/L,1,Normal
+Alameda,11/19/2014 09:25,Total Dissolved Solids,392,1.0,mg/L,1,Normal
+Alameda,11/20/1974 12:30,Total Dissolved Solids,281,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/20/1985 10:40,Total Dissolved Solids,387,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/20/1996 07:50,Total Dissolved Solids,216,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/20/2002 07:45,Total Dissolved Solids,331,1.0,mg/L,1,Normal
+Alameda,11/20/2013 09:35,Total Dissolved Solids,322,1.0,mg/L,1,Normal
+Alameda,11/20/2013 09:35,Total Dissolved Solids,323,1.0,mg/L,1,Normal
+Alameda,11/21/1977 16:00,Total Dissolved Solids,705,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/21/1979 10:00,Total Dissolved Solids,206,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/21/1991 11:15,Total Dissolved Solids,354,1.0,mg/L,1,Normal
+Alameda,11/28/1977 09:30,Total Dissolved Solids,621,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/02/1969 16:00,Total Dissolved Solids,230,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/03/2012 12:30,Total Dissolved Solids,267,1.0,mg/L,1,Normal
+Alameda,12/04/1968 14:50,Total Dissolved Solids,222,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/06/1977 15:30,Total Dissolved Solids,617,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/06/2011 09:45,Total Dissolved Solids,142,1.0,mg/L,1,Normal
+Alameda,12/07/1995 11:47,Total Dissolved Solids,177,1.0,mg/L,1,Normal
+Alameda,12/08/1970 19:15,Total Dissolved Solids,384,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/10/1992 11:30,Total Dissolved Solids,413,1.0,mg/L,1,Normal
+Alameda,12/11/1990 12:10,Total Dissolved Solids,431,1.0,mg/L,1,Normal
+Alameda,12/11/1991 09:20,Total Dissolved Solids,394,1.0,mg/L,1,Normal
+Alameda,12/12/1996 12:45,Total Dissolved Solids,222,1.0,mg/L,1,Normal
+Alameda,12/14/1977 09:30,Total Dissolved Solids,596,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/14/2005 08:30,Total Dissolved Solids,314,1.0,mg/L,1,Normal
+Alameda,12/14/2005 08:30,Total Dissolved Solids,315,1.0,mg/L,1,Normal
+Alameda,12/14/2021 08:30,Total Dissolved Solids,279,2.5,mg/L,1,Normal
+Alameda,12/15/1971 11:45,Total Dissolved Solids,182,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/15/1976 10:05,Total Dissolved Solids,398,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/15/1982 10:00,Total Dissolved Solids,115,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/15/1993 08:40,Total Dissolved Solids,254,1.0,mg/L,1,Normal
+Alameda,12/15/1993 08:45,Total Dissolved Solids,251,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/15/1999 06:50,Total Dissolved Solids,388,1.0,mg/L,1,Normal
+Alameda,12/15/2004 07:20,Total Dissolved Solids,283,1.0,mg/L,1,Normal
+Alameda,12/15/2010 08:25,Total Dissolved Solids,255,1.0,mg/L,1,Normal
+Alameda,12/15/2020 09:20,Total Dissolved Solids,367,2.5,mg/L,1,Normal
+Alameda,12/16/1981 10:15,Total Dissolved Solids,325,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/16/1987 10:40,Total Dissolved Solids,419,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/16/1992 09:40,Total Dissolved Solids,457,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/16/1998 08:55,Total Dissolved Solids,220,1.0,mg/L,1,Normal
+Alameda,12/16/2009 09:05,Total Dissolved Solids,289,1.0,mg/L,1,Normal
+Alameda,12/16/2014 08:45,Total Dissolved Solids,368,1.0,mg/L,1,Normal
+Alameda,12/16/2015 08:30,Total Dissolved Solids,390,1.0,mg/L,1,Normal
+Alameda,12/17/1975 13:00,Total Dissolved Solids,118,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/17/1980 10:10,Total Dissolved Solids,164,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/17/1986 09:25,Total Dissolved Solids,164,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/17/2003 07:20,Total Dissolved Solids,378,1.0,mg/L,1,Normal
+Alameda,12/17/2013 08:55,Total Dissolved Solids,433,1.0,mg/L,1,Normal
+Alameda,12/17/2019 09:20,Total Dissolved Solids,196,1.0,mg/L,1,Normal
+Alameda,12/18/1974 12:00,Total Dissolved Solids,269,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/18/1985 10:45,Total Dissolved Solids,357,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/18/1990 08:50,Total Dissolved Solids,466,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/18/1991 07:30,Total Dissolved Solids,437,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/18/1996 09:00,Total Dissolved Solids,182,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/18/2002 06:12,Total Dissolved Solids,338,1.0,mg/L,1,Normal
+Alameda,12/18/2008 08:30,Total Dissolved Solids,402,1.0,mg/L,1,Normal
+Alameda,12/19/1973 13:30,Total Dissolved Solids,252,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/19/1979 12:00,Total Dissolved Solids,201,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/19/1984 09:40,Total Dissolved Solids,160,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/19/1989 08:25,Total Dissolved Solids,347,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/19/1989 09:15,Total Dissolved Solids,504,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/19/2001 07:45,Total Dissolved Solids,276,1.0,mg/L,1,Normal
+Alameda,12/19/2007 08:12,Total Dissolved Solids,295,1.0,mg/L,1,Normal
+Alameda,12/19/2012 09:30,Total Dissolved Solids,201,1.0,mg/L,1,Normal
+Alameda,12/19/2017 08:50,Total Dissolved Solids,233,1.0,mg/L,1,Normal
+Alameda,12/19/2017 08:50,Total Dissolved Solids,234,1.0,mg/L,1,Normal
+Alameda,12/19/2018 08:40,Total Dissolved Solids,318,1.0,mg/L,1,Normal
+Alameda,12/20/1972 12:25,Total Dissolved Solids,334,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/20/1978 08:55,Total Dissolved Solids,170,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/20/1994 12:15,Total Dissolved Solids,294,1.0,mg/L,1,Normal
+Alameda,12/20/1995 08:00,Total Dissolved Solids,151,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/20/2000 09:50,Total Dissolved Solids,309,1.0,mg/L,1,Normal
+Alameda,12/20/2006 08:20,Total Dissolved Solids,266,1.0,mg/L,1,Normal
+Alameda,12/20/2016 09:00,Total Dissolved Solids,416,1.0,mg/L,1,Normal
+Alameda,12/20/2022 08:00,Total Dissolved Solids,374,2.5,mg/L,1,Normal
+Alameda,12/20/2022 08:00,Total Dissolved Solids,379,2.5,mg/L,1,Normal
+Alameda,12/21/1977 11:45,Total Dissolved Solids,677,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/21/1977 11:46,Total Dissolved Solids,722,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/21/1983 09:50,Total Dissolved Solids,166,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/21/1988 09:45,Total Dissolved Solids,434,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/21/1994 08:25,Total Dissolved Solids,294,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/21/2011 08:55,Total Dissolved Solids,186,1.0,mg/L,1,Normal
+Alameda,12/27/1977 15:45,Total Dissolved Solids,639,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/25/2014 09:55,Total Dissolved Solids,484,1.0,mg/L,1,Normal
+Alameda,02/25/2014 09:55,Total Dissolved Solids,485,1.0,mg/L,1,Normal
+Alameda,03/27/2014 09:40,Total Dissolved Solids,303,1.0,mg/L,1,Normal
+Alameda,01/04/1966 10:30,Total Dissolved Solids,292,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/05/1968 08:30,Total Dissolved Solids,306,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/06/1964 14:10,Total Dissolved Solids,314,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/07/1963 09:10,Total Dissolved Solids,480,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/10/1967 11:00,Total Dissolved Solids,434,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/21/1963 12:55,Total Dissolved Solids,488,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/01/1966 09:30,Total Dissolved Solids,301,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/02/1968 07:45,Total Dissolved Solids,472,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/03/1964 13:45,Total Dissolved Solids,333,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/04/1963 09:30,Total Dissolved Solids,487,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/09/1965 18:15,Total Dissolved Solids,308,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/18/1963 13:50,Total Dissolved Solids,509,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/28/1966 09:30,Total Dissolved Solids,386,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/02/1964 13:30,Total Dissolved Solids,474,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/02/1965 10:00,Total Dissolved Solids,329,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/06/1968 07:10,Total Dissolved Solids,360,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/15/1967 10:00,Total Dissolved Solids,438,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/01/1963 11:25,Total Dissolved Solids,477,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/01/1964 15:30,Total Dissolved Solids,349,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/01/1965 16:30,Total Dissolved Solids,313,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/03/1962 22:30,Total Dissolved Solids,668,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/03/1967 16:00,Total Dissolved Solids,234,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/03/1968 07:00,Total Dissolved Solids,281,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/05/1966 10:00,Total Dissolved Solids,362,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/15/1963 15:15,Total Dissolved Solids,477,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/29/1963 18:35,Total Dissolved Solids,448,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/01/1964 14:30,Total Dissolved Solids,328,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/01/1967 14:45,Total Dissolved Solids,186,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/01/1968 07:20,Total Dissolved Solids,166,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/02/1966 10:30,Total Dissolved Solids,196,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/11/1965 10:00,Total Dissolved Solids,260,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/13/1963 13:00,Total Dissolved Solids,400,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/27/1963 12:30,Total Dissolved Solids,340,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/31/1966 09:30,Total Dissolved Solids,205,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/01/1964 10:45,Total Dissolved Solids,218,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/01/1965 10:00,Total Dissolved Solids,185,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/02/1967 14:00,Total Dissolved Solids,117,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/17/1962 13:10,Total Dissolved Solids,483,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/01/1964 10:20,Total Dissolved Solids,183,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/01/1965 17:30,Total Dissolved Solids,183,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/07/1967 14:55,Total Dissolved Solids,86,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/08/1963 10:50,Total Dissolved Solids,170,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/12/1966 10:00,Total Dissolved Solids,250,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/16/1962 22:10,Total Dissolved Solids,241,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/23/1963 12:00,Total Dissolved Solids,200,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/01/1964 08:45,Total Dissolved Solids,217,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/01/1967 10:35,Total Dissolved Solids,201,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/02/1966 10:00,Total Dissolved Solids,299,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/03/1965 13:45,Total Dissolved Solids,215,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/14/1962 18:30,Total Dissolved Solids,194,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/19/1963 12:30,Total Dissolved Solids,214,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/30/1966 09:30,Total Dissolved Solids,346,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/01/1964 09:30,Total Dissolved Solids,311,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/01/1965 11:20,Total Dissolved Solids,232,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/08/1967 10:10,Total Dissolved Solids,272,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/01/1964 19:30,Total Dissolved Solids,243,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/03/1966 09:30,Total Dissolved Solids,348,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/03/1967 11:45,Total Dissolved Solids,308,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/05/1965 10:00,Total Dissolved Solids,263,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/08/1962 20:20,Total Dissolved Solids,349,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/01/1962 15:50,Total Dissolved Solids,424,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/01/1966 14:00,Total Dissolved Solids,401,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/02/1964 16:30,Total Dissolved Solids,305,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/07/1967 12:00,Total Dissolved Solids,267,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/09/1965 09:30,Total Dissolved Solids,287,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/19/1962 13:00,Total Dissolved Solids,489,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/30/1965 09:30,Total Dissolved Solids,288,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/30/1966 10:30,Total Dissolved Solids,517,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/01/1964 10:00,Total Dissolved Solids,321,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/01/1967 08:05,Total Dissolved Solids,291,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/09/1962 19:15,Total Dissolved Solids,443,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/24/1962 13:50,Total Dissolved Solids,471,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/30/1964 16:45,Total Dissolved Solids,349,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/20/1995 12:55,Total Dissolved Solids,251,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/04/1966 12:00,Total Dissolved Solids,286,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/06/1964 14:50,Total Dissolved Solids,282,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/10/1967 12:00,Total Dissolved Solids,437,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/01/1966 11:00,Total Dissolved Solids,257,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/28/1966 10:15,Total Dissolved Solids,382,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/01/1963 14:15,Total Dissolved Solids,483,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/02/1964 16:15,Total Dissolved Solids,453,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/15/1967 11:00,Total Dissolved Solids,447,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/01/1964 15:45,Total Dissolved Solids,352,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/03/1967 15:00,Total Dissolved Solids,260,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/05/1966 13:30,Total Dissolved Solids,353,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/01/1967 13:40,Total Dissolved Solids,233,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/31/1966 10:30,Total Dissolved Solids,192,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/01/1964 17:00,Total Dissolved Solids,216,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/02/1967 12:45,Total Dissolved Solids,122,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/04/1969 08:30,Total Dissolved Solids,86,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/05/1968 07:45,Total Dissolved Solids,162,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/09/1970 10:20,Total Dissolved Solids,194,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/15/1971 16:10,Total Dissolved Solids,144,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/17/1975 12:45,Total Dissolved Solids,146,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/19/1973 09:55,Total Dissolved Solids,135,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/20/1972 07:40,Total Dissolved Solids,239,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/01/1964 17:15,Total Dissolved Solids,178,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/01/1965 16:50,Total Dissolved Solids,191,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/07/1967 13:15,Total Dissolved Solids,92,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/12/1966 11:00,Total Dissolved Solids,248,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/17/1962 12:00,Total Dissolved Solids,243,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/01/1964 14:35,Total Dissolved Solids,214,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/02/1965 14:45,Total Dissolved Solids,199,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/02/1966 11:00,Total Dissolved Solids,327,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/18/1972 14:20,Total Dissolved Solids,190,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/30/1966 11:00,Total Dissolved Solids,448,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/01/1964 16:15,Total Dissolved Solids,313,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/01/1965 18:30,Total Dissolved Solids,233,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/01/1970 17:30,Total Dissolved Solids,215,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/02/1969 11:00,Total Dissolved Solids,131,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/03/1963 17:40,Total Dissolved Solids,218,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/04/1968 07:30,Total Dissolved Solids,235,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/14/1971 08:00,Total Dissolved Solids,103,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/16/1975 09:20,Total Dissolved Solids,134,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/17/1974 12:10,Total Dissolved Solids,128,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/18/1973 10:20,Total Dissolved Solids,195,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/01/1964 18:20,Total Dissolved Solids,246,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/03/1966 10:30,Total Dissolved Solids,322,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/28/1963 13:18,Total Dissolved Solids,292,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/01/1966 12:30,Total Dissolved Solids,382,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/09/1965 13:00,Total Dissolved Solids,290,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/30/1965 10:30,Total Dissolved Solids,290,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/30/1966 11:15,Total Dissolved Solids,506,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/01/1964 10:30,Total Dissolved Solids,316,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/20/1995 14:00,Total Dissolved Solids,244,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/26/1972 10:30,Total Dissolved Solids,262,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/16/1972 11:00,Total Dissolved Solids,344,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/19/1975 11:50,Total Dissolved Solids,254,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/15/1972 11:00,Total Dissolved Solids,162,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/19/1972 10:45,Total Dissolved Solids,144,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/17/1972 09:50,Total Dissolved Solids,137,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/21/1972 10:20,Total Dissolved Solids,236,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/24/1972 09:50,Total Dissolved Solids,372,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/16/1972 10:45,Total Dissolved Solids,254,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/17/1975 11:00,Total Dissolved Solids,130,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/18/1972 14:45,Total Dissolved Solids,198,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/18/1974 09:00,Total Dissolved Solids,130,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/19/1973 10:30,Total Dissolved Solids,199,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/20/1972 11:00,Total Dissolved Solids,177,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/18/1972 10:40,Total Dissolved Solids,167,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/15/1972 12:00,Total Dissolved Solids,258,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/20/1972 11:30,Total Dissolved Solids,332,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/03/1969 18:00,Total Dissolved Solids,135,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/09/1970 11:10,Total Dissolved Solids,192,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/15/1971 15:30,Total Dissolved Solids,144,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/17/1975 12:25,Total Dissolved Solids,179,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/19/1973 09:30,Total Dissolved Solids,138,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/20/1972 08:20,Total Dissolved Solids,231,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/01/1970 16:00,Total Dissolved Solids,190,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/02/1969 17:45,Total Dissolved Solids,133,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/04/1968 08:45,Total Dissolved Solids,234,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/14/1971 08:40,Total Dissolved Solids,102,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/16/1975 11:00,Total Dissolved Solids,145,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/17/1974 11:45,Total Dissolved Solids,124,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/18/1972 11:45,Total Dissolved Solids,180,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/18/1973 09:45,Total Dissolved Solids,192,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/20/1995 15:05,Total Dissolved Solids,230,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/10/1967 13:35,Total Dissolved Solids,421,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/28/1966 12:15,Total Dissolved Solids,381,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/15/1967 12:00,Total Dissolved Solids,392,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/03/1967 11:15,Total Dissolved Solids,267,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/06/1966 09:15,Total Dissolved Solids,355,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/01/1967 12:30,Total Dissolved Solids,230,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/31/1966 12:30,Total Dissolved Solids,185,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/02/1967 11:00,Total Dissolved Solids,87,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/05/1968 06:30,Total Dissolved Solids,159,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/07/1967 11:45,Total Dissolved Solids,94,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/12/1966 12:00,Total Dissolved Solids,240,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/02/1966 13:00,Total Dissolved Solids,330,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/05/1985 10:25,Total Dissolved Solids,253,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/12/1985 09:55,Total Dissolved Solids,227,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/31/1966 12:30,Total Dissolved Solids,294,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/02/1969 17:15,Total Dissolved Solids,133,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/08/1965 11:28,Total Dissolved Solids,260,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/08/1967 08:23,Total Dissolved Solids,283,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/10/1985 09:40,Total Dissolved Solids,308,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/17/1985 10:20,Total Dissolved Solids,316,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/23/1985 10:10,Total Dissolved Solids,313,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/30/1985 10:20,Total Dissolved Solids,312,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/08/1985 09:40,Total Dissolved Solids,321,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/01/1966 11:00,Total Dissolved Solids,372,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/10/1965 10:45,Total Dissolved Solids,291,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/30/1965 13:00,Total Dissolved Solids,287,0.1,mg/L at 180 °C,1,Normal
+Alameda,11/30/1966 11:45,Total Dissolved Solids,565,0.1,mg/L at 180 °C,1,Normal
+Alameda,01/11/2010 12:15,Total Dissolved Solids,352,1.0,mg/L,1,Normal
+Alameda,01/13/2014 11:35,Total Dissolved Solids,424,1.0,mg/L,1,Normal
+Alameda,01/13/2014 11:35,Total Dissolved Solids,425,1.0,mg/L,1,Normal
+Alameda,01/13/2020 12:55,Total Dissolved Solids,265,1.0,mg/L,1,Normal
+Alameda,01/14/2008 12:20,Total Dissolved Solids,359,1.0,mg/L,1,Normal
+Alameda,01/14/2019 10:30,Total Dissolved Solids,404,1.0,mg/L,1,Normal
+Alameda,01/15/2003 08:30,Total Dissolved Solids,184,1.0,mg/L,1,Normal
+Alameda,01/15/2013 12:50,Total Dissolved Solids,298,1.0,mg/L,1,Normal
+Alameda,01/16/2007 12:45,Total Dissolved Solids,310,1.0,mg/L,1,Normal
+Alameda,01/16/2018 12:35,Total Dissolved Solids,305,1.0,mg/L,1,Normal
+Alameda,01/17/2001 09:45,Total Dissolved Solids,398,1.0,mg/L,1,Normal
+Alameda,01/17/2005 12:30,Total Dissolved Solids,254,1.0,mg/L,1,Normal
+Alameda,01/17/2006 13:35,Total Dissolved Solids,125,1.0,mg/L,1,Normal
+Alameda,01/17/2017 10:45,Total Dissolved Solids,225,1.0,mg/L,1,Normal
+Alameda,01/17/2023 12:50,Total Dissolved Solids,267,2.5,mg/L,1,Normal
+Alameda,01/18/2022 13:05,Total Dissolved Solids,296,2.5,mg/L,1,Normal
+Alameda,01/19/2000 12:20,Total Dissolved Solids,251,1.0,mg/L,1,Normal
+Alameda,01/19/2016 12:15,Total Dissolved Solids,345,1.0,mg/L,1,Normal
+Alameda,01/20/1999 09:50,Total Dissolved Solids,267,1.0,mg/L,1,Normal
+Alameda,01/20/2004 13:40,Total Dissolved Solids,183,1.0,mg/L,1,Normal
+Alameda,01/20/2015 13:45,Total Dissolved Solids,304,1.0,mg/L,1,Normal
+Alameda,01/21/1998 11:25,Total Dissolved Solids,274,1.0,mg/L,1,Normal
+Alameda,01/21/2009 10:05,Total Dissolved Solids,371,1.0,mg/L,1,Normal
+Alameda,02/13/2017 10:20,Total Dissolved Solids,169,1.0,mg/L,1,Normal
+Alameda,02/13/2023 12:25,Total Dissolved Solids,246,2.5,mg/L,1,Normal
+Alameda,02/14/2005 11:50,Total Dissolved Solids,247,1.0,mg/L,1,Normal
+Alameda,02/14/2006 13:20,Total Dissolved Solids,186,1.0,mg/L,1,Normal
+Alameda,02/14/2011 16:00,Total Dissolved Solids,158,1.0,mg/L,1,Normal
+Alameda,02/14/2022 13:00,Total Dissolved Solids,243,2.5,mg/L,1,Normal
+Alameda,02/16/2000 10:10,Total Dissolved Solids,180,1.0,mg/L,1,Normal
+Alameda,02/16/2010 13:35,Total Dissolved Solids,275,1.0,mg/L,1,Normal
+Alameda,02/16/2016 12:20,Total Dissolved Solids,304,1.0,mg/L,1,Normal
+Alameda,02/17/1999 09:30,Total Dissolved Solids,217,1.0,mg/L,1,Normal
+Alameda,02/17/2004 10:20,Total Dissolved Solids,184,1.0,mg/L,1,Normal
+Alameda,02/17/2009 12:15,Total Dissolved Solids,441,1.0,mg/L,1,Normal
+Alameda,02/17/2015 10:50,Total Dissolved Solids,332,1.0,mg/L,1,Normal
+Alameda,02/18/2014 15:00,Total Dissolved Solids,502,1.0,mg/L,1,Normal
+Alameda,02/18/2020 13:45,Total Dissolved Solids,240,1.0,mg/L,1,Normal
+Alameda,02/19/2003 09:15,Total Dissolved Solids,186,1.0,mg/L,1,Normal
+Alameda,02/19/2008 10:00,Total Dissolved Solids,262,1.0,mg/L,1,Normal
+Alameda,02/19/2013 12:15,Total Dissolved Solids,300,1.0,mg/L,1,Normal
+Alameda,02/19/2019 12:20,Total Dissolved Solids,256,1.0,mg/L,1,Normal
+Alameda,02/20/2007 13:05,Total Dissolved Solids,272,1.0,mg/L,1,Normal
+Alameda,02/20/2018 12:40,Total Dissolved Solids,264,1.0,mg/L,1,Normal
+Alameda,02/21/2001 09:45,Total Dissolved Solids,270,1.0,mg/L,1,Normal
+Alameda,03/13/2006 10:00,Total Dissolved Solids,141,1.0,mg/L,1,Normal
+Alameda,03/13/2006 10:00,Total Dissolved Solids,142,1.0,mg/L,1,Normal
+Alameda,03/13/2017 11:50,Total Dissolved Solids,132,1.0,mg/L,1,Normal
+Alameda,03/14/2005 14:10,Total Dissolved Solids,295,1.0,mg/L,1,Normal
+Alameda,03/14/2011 15:00,Total Dissolved Solids,182,1.0,mg/L,1,Normal
+Alameda,03/14/2016 09:40,Total Dissolved Solids,226,1.0,mg/L,1,Normal
+Alameda,03/15/2000 10:25,Total Dissolved Solids,138,1.0,mg/L,1,Normal
+Alameda,03/15/2004 11:55,Total Dissolved Solids,182,1.0,mg/L,1,Normal
+Alameda,03/15/2010 12:35,Total Dissolved Solids,260,1.0,mg/L,1,Normal
+Alameda,03/15/2021 11:35,Total Dissolved Solids,372,2.5,mg/L,1,Normal
+Alameda,03/15/2023 12:40,Total Dissolved Solids,242,2.5,mg/L,1,Normal
+Alameda,03/16/2009 12:15,Total Dissolved Solids,277,1.0,mg/L,1,Normal
+Alameda,03/16/2015 11:10,Total Dissolved Solids,250,1.0,mg/L,1,Normal
+Alameda,03/16/2020 11:10,Total Dissolved Solids,237,1.0,mg/L,1,Normal
+Alameda,03/17/1999 10:05,Total Dissolved Solids,170,1.0,mg/L,1,Normal
+Alameda,03/17/1999 10:05,Total Dissolved Solids,172,1.0,mg/L,1,Normal
+Alameda,03/17/2008 12:10,Total Dissolved Solids,310,1.0,mg/L,1,Normal
+Alameda,03/17/2014 11:55,Total Dissolved Solids,350,1.0,mg/L,1,Normal
+Alameda,03/18/2019 11:40,Total Dissolved Solids,115,1.0,mg/L,1,Normal
+Alameda,03/19/2003 09:15,Total Dissolved Solids,184,1.0,mg/L,1,Normal
+Alameda,03/19/2007 11:10,Total Dissolved Solids,215,1.0,mg/L,1,Normal
+Alameda,03/19/2013 14:45,Total Dissolved Solids,253,1.0,mg/L,1,Normal
+Alameda,03/19/2018 12:15,Total Dissolved Solids,268,1.0,mg/L,1,Normal
+Alameda,03/20/2002 10:25,Total Dissolved Solids,212,1.0,mg/L,1,Normal
+Alameda,03/21/2001 10:40,Total Dissolved Solids,313,1.0,mg/L,1,Normal
+Alameda,03/21/2022 11:45,Total Dissolved Solids,271,2.5,mg/L,1,Normal
+Alameda,04/13/2009 12:20,Total Dissolved Solids,214,1.0,mg/L,1,Normal
+Alameda,04/13/2015 11:20,Total Dissolved Solids,278,1.0,mg/L,1,Normal
+Alameda,04/14/2008 11:10,Total Dissolved Solids,285,1.0,mg/L,1,Normal
+Alameda,04/14/2014 11:15,Total Dissolved Solids,282,1.0,mg/L,1,Normal
+Alameda,04/15/2013 15:35,Total Dissolved Solids,421,1.0,mg/L,1,Normal
+Alameda,04/16/1997 08:30,Total Dissolved Solids,174,0.1,mg/L at 180 °C,1,Normal
+Alameda,04/16/2003 09:40,Total Dissolved Solids,186,1.0,mg/L,1,Normal
+Alameda,04/16/2007 12:50,Total Dissolved Solids,172,1.0,mg/L,1,Normal
+Alameda,04/16/2018 11:10,Total Dissolved Solids,147,1.0,mg/L,1,Normal
+Alameda,04/17/2002 09:50,Total Dissolved Solids,168,1.0,mg/L,1,Normal
+Alameda,04/17/2006 12:00,Total Dissolved Solids,127,1.0,mg/L,1,Normal
+Alameda,04/17/2017 12:10,Total Dissolved Solids,161,1.0,mg/L,1,Normal
+Alameda,04/17/2023 11:15,Total Dissolved Solids,105,2.5,mg/L,1,Normal
+Alameda,04/17/2023 11:15,Total Dissolved Solids,106,2.5,mg/L,1,Normal
+Alameda,04/18/2001 08:50,Total Dissolved Solids,204,1.0,mg/L,1,Normal
+Alameda,04/18/2005 12:10,Total Dissolved Solids,201,1.0,mg/L,1,Normal
+Alameda,04/18/2011 15:30,Total Dissolved Solids,89,1.0,mg/L,1,Normal
+Alameda,04/18/2016 09:35,Total Dissolved Solids,244,1.0,mg/L,1,Normal
+Alameda,04/18/2022 11:45,Total Dissolved Solids,270,2.5,mg/L,1,Normal
+Alameda,04/19/2000 09:00,Total Dissolved Solids,154,1.0,mg/L,1,Normal
+Alameda,04/19/2010 14:30,Total Dissolved Solids,328,1.0,mg/L,1,Normal
+Alameda,04/19/2021 11:55,Total Dissolved Solids,386,2.5,mg/L,1,Normal
+Alameda,04/20/2004 06:10,Total Dissolved Solids,161,1.0,mg/L,1,Normal
+Alameda,04/21/1999 08:40,Total Dissolved Solids,185,1.0,mg/L,1,Normal
+Alameda,05/13/2019 11:25,Total Dissolved Solids,100,1.0,mg/L,1,Normal
+Alameda,05/14/2007 12:35,Total Dissolved Solids,200,1.0,mg/L,1,Normal
+Alameda,05/14/2013 10:55,Total Dissolved Solids,165,1.0,mg/L,1,Normal
+Alameda,05/14/2018 11:30,Total Dissolved Solids,151,1.0,mg/L,1,Normal
+Alameda,05/15/2002 09:45,Total Dissolved Solids,219,1.0,mg/L,1,Normal
+Alameda,05/15/2006 10:55,Total Dissolved Solids,92,1.0,mg/L,1,Normal
+Alameda,05/15/2012 12:45,Total Dissolved Solids,247,1.0,mg/L,1,Normal
+Alameda,05/15/2017 12:15,Total Dissolved Solids,69,1.0,mg/L,1,Normal
+Alameda,05/15/2023 11:30,Total Dissolved Solids,67,2.5,mg/L,1,Normal
+Alameda,05/16/2001 09:00,Total Dissolved Solids,238,1.0,mg/L,1,Normal
+Alameda,05/16/2011 16:10,Total Dissolved Solids,91,1.0,mg/L,1,Normal
+Alameda,05/16/2016 09:45,Total Dissolved Solids,220,1.0,mg/L,1,Normal
+Alameda,05/16/2022 12:10,Total Dissolved Solids,235,2.5,mg/L,1,Normal
+Alameda,05/17/2000 08:55,Total Dissolved Solids,218,1.0,mg/L,1,Normal
+Alameda,05/17/2005 10:40,Total Dissolved Solids,149,1.0,mg/L,1,Normal
+Alameda,05/17/2021 11:50,Total Dissolved Solids,325,2.5,mg/L,1,Normal
+Alameda,05/18/2009 12:20,Total Dissolved Solids,216,1.0,mg/L,1,Normal
+Alameda,05/18/2010 13:50,Total Dissolved Solids,201,1.0,mg/L,1,Normal
+Alameda,05/19/1999 09:40,Total Dissolved Solids,198,1.0,mg/L,1,Normal
+Alameda,05/19/2004 12:20,Total Dissolved Solids,212,1.0,mg/L,1,Normal
+Alameda,05/19/2008 11:30,Total Dissolved Solids,234,1.0,mg/L,1,Normal
+Alameda,05/19/2014 12:50,Total Dissolved Solids,282,1.0,mg/L,1,Normal
+Alameda,05/19/2015 11:30,Total Dissolved Solids,333,1.0,mg/L,1,Normal
+Alameda,05/20/1998 08:45,Total Dissolved Solids,248,1.0,mg/L,1,Normal
+Alameda,05/21/1997 09:45,Total Dissolved Solids,289,0.1,mg/L at 180 °C,1,Normal
+Alameda,05/21/2003 07:20,Total Dissolved Solids,270,1.0,mg/L,1,Normal
+Alameda,06/13/2005 10:15,Total Dissolved Solids,115,1.0,mg/L,1,Normal
+Alameda,06/13/2011 14:30,Total Dissolved Solids,129,1.0,mg/L,1,Normal
+Alameda,06/13/2016 11:55,Total Dissolved Solids,170,1.0,mg/L,1,Normal
+Alameda,06/13/2022 11:35,Total Dissolved Solids,227,2.5,mg/L,1,Normal
+Alameda,06/14/2010 13:05,Total Dissolved Solids,155,1.0,mg/L,1,Normal
+Alameda,06/14/2021 11:40,Total Dissolved Solids,284,2.5,mg/L,1,Normal
+Alameda,06/15/2004 13:30,Total Dissolved Solids,189,1.0,mg/L,1,Normal
+Alameda,06/15/2015 09:45,Total Dissolved Solids,451,1.0,mg/L,1,Normal
+Alameda,06/16/1999 10:00,Total Dissolved Solids,182,1.0,mg/L,1,Normal
+Alameda,06/16/2008 12:05,Total Dissolved Solids,286,1.0,mg/L,1,Normal
+Alameda,06/16/2009 13:00,Total Dissolved Solids,224,1.0,mg/L,1,Normal
+Alameda,06/16/2014 12:10,Total Dissolved Solids,293,1.0,mg/L,1,Normal
+Alameda,06/17/1998 10:15,Total Dissolved Solids,116,1.0,mg/L,1,Normal
+Alameda,06/17/2019 11:55,Total Dissolved Solids,81,1.0,mg/L,1,Normal
+Alameda,06/18/1997 12:00,Total Dissolved Solids,197,0.1,mg/L at 180 °C,1,Normal
+Alameda,06/18/2003 08:45,Total Dissolved Solids,106,1.0,mg/L,1,Normal
+Alameda,06/18/2007 12:15,Total Dissolved Solids,251,1.0,mg/L,1,Normal
+Alameda,06/18/2007 12:15,Total Dissolved Solids,252,1.0,mg/L,1,Normal
+Alameda,06/18/2012 15:10,Total Dissolved Solids,167,1.0,mg/L,1,Normal
+Alameda,06/18/2013 13:25,Total Dissolved Solids,219,1.0,mg/L,1,Normal
+Alameda,06/18/2018 11:25,Total Dissolved Solids,175,1.0,mg/L,1,Normal
+Alameda,06/19/2002 09:20,Total Dissolved Solids,184,1.0,mg/L,1,Normal
+Alameda,06/19/2006 12:15,Total Dissolved Solids,70,1.0,mg/L,1,Normal
+Alameda,06/19/2017 11:50,Total Dissolved Solids,84,1.0,mg/L,1,Normal
+Alameda,06/19/2023 12:35,Total Dissolved Solids,53,2.5,mg/L,1,Normal
+Alameda,06/20/2001 08:30,Total Dissolved Solids,263,1.0,mg/L,1,Normal
+Alameda,06/21/2000 09:00,Total Dissolved Solids,158,1.0,mg/L,1,Normal
+Alameda,07/13/2009 10:55,Total Dissolved Solids,127,1.0,mg/L,1,Normal
+Alameda,07/13/2015 10:35,Total Dissolved Solids,459,1.0,mg/L,1,Normal
+Alameda,07/14/2008 12:00,Total Dissolved Solids,162,1.0,mg/L,1,Normal
+Alameda,07/14/2014 09:30,Total Dissolved Solids,398,1.0,mg/L,1,Normal
+Alameda,07/14/2014 09:30,Total Dissolved Solids,404,1.0,mg/L,1,Normal
+Alameda,07/15/1998 09:50,Total Dissolved Solids,85,1.0,mg/L,1,Normal
+Alameda,07/15/2019 11:30,Total Dissolved Solids,91,1.0,mg/L,1,Normal
+Alameda,07/16/1997 12:00,Total Dissolved Solids,145,0.1,mg/L at 180 °C,1,Normal
+Alameda,07/16/2003 07:45,Total Dissolved Solids,115,1.0,mg/L,1,Normal
+Alameda,07/16/2007 11:45,Total Dissolved Solids,153,1.0,mg/L,1,Normal
+Alameda,07/16/2012 15:15,Total Dissolved Solids,143,1.0,mg/L,1,Normal
+Alameda,07/16/2013 13:05,Total Dissolved Solids,170,1.0,mg/L,1,Normal
+Alameda,07/16/2018 11:20,Total Dissolved Solids,152,1.0,mg/L,1,Normal
+Alameda,07/17/2002 08:50,Total Dissolved Solids,185,1.0,mg/L,1,Normal
+Alameda,07/17/2006 12:10,Total Dissolved Solids,105,1.0,mg/L,1,Normal
+Alameda,07/17/2017 11:10,Total Dissolved Solids,80,1.0,mg/L,1,Normal
+Alameda,07/17/2023 11:00,Total Dissolved Solids,92,2.5,mg/L,1,Normal
+Alameda,07/18/2001 09:25,Total Dissolved Solids,194,1.0,mg/L,1,Normal
+Alameda,07/18/2005 12:10,Total Dissolved Solids,110,1.0,mg/L,1,Normal
+Alameda,07/18/2011 15:00,Total Dissolved Solids,90,1.0,mg/L,1,Normal
+Alameda,07/18/2016 11:35,Total Dissolved Solids,159,1.0,mg/L,1,Normal
+Alameda,07/19/2000 10:40,Total Dissolved Solids,141,1.0,mg/L,1,Normal
+Alameda,07/19/2004 12:20,Total Dissolved Solids,167,1.0,mg/L,1,Normal
+Alameda,07/19/2010 13:00,Total Dissolved Solids,110,1.0,mg/L,1,Normal
+Alameda,07/21/1999 09:30,Total Dissolved Solids,124,1.0,mg/L,1,Normal
+Alameda,07/25/2022 11:50,Total Dissolved Solids,302,2.5,mg/L,1,Normal
+Alameda,08/13/2007 12:20,Total Dissolved Solids,249,1.0,mg/L,1,Normal
+Alameda,08/13/2018 12:20,Total Dissolved Solids,141,1.0,mg/L,1,Normal
+Alameda,08/14/2006 12:10,Total Dissolved Solids,134,1.0,mg/L,1,Normal
+Alameda,08/14/2017 09:50,Total Dissolved Solids,103,1.0,mg/L,1,Normal
+Alameda,08/14/2023 11:45,Total Dissolved Solids,106,2.5,mg/L,1,Normal
+Alameda,08/15/2001 09:40,Total Dissolved Solids,276,1.0,mg/L,1,Normal
+Alameda,08/15/2005 12:15,Total Dissolved Solids,152,1.0,mg/L,1,Normal
+Alameda,08/15/2011 15:00,Total Dissolved Solids,113,1.0,mg/L,1,Normal
+Alameda,08/15/2016 10:05,Total Dissolved Solids,174,1.0,mg/L,1,Normal
+Alameda,08/16/2000 09:00,Total Dissolved Solids,123,1.0,mg/L,1,Normal
+Alameda,08/16/2010 13:45,Total Dissolved Solids,143,1.0,mg/L,1,Normal
+Alameda,08/16/2021 12:20,Total Dissolved Solids,365,2.5,mg/L,1,Normal
+Alameda,08/16/2021 12:20,Total Dissolved Solids,367,2.5,mg/L,1,Normal
+Alameda,08/17/2004 12:30,Total Dissolved Solids,184,1.0,mg/L,1,Normal
+Alameda,08/17/2009 10:55,Total Dissolved Solids,240,1.0,mg/L,1,Normal
+Alameda,08/17/2015 10:00,Total Dissolved Solids,460,1.0,mg/L,1,Normal
+Alameda,08/18/1999 08:55,Total Dissolved Solids,123,1.0,mg/L,1,Normal
+Alameda,08/18/2008 13:15,Total Dissolved Solids,248,1.0,mg/L,1,Normal
+Alameda,08/19/1998 08:30,Total Dissolved Solids,132,1.0,mg/L,1,Normal
+Alameda,08/19/2019 12:10,Total Dissolved Solids,127,1.0,mg/L,1,Normal
+Alameda,08/20/1997 12:00,Total Dissolved Solids,149,0.1,mg/L at 180 °C,1,Normal
+Alameda,08/20/2003 08:30,Total Dissolved Solids,129,1.0,mg/L,1,Normal
+Alameda,08/20/2013 13:05,Total Dissolved Solids,274,1.0,mg/L,1,Normal
+Alameda,08/20/2014 09:50,Total Dissolved Solids,326,1.0,mg/L,1,Normal
+Alameda,08/21/2002 07:41,Total Dissolved Solids,366,1.0,mg/L,1,Normal
+Alameda,08/21/2012 11:50,Total Dissolved Solids,194,1.0,mg/L,1,Normal
+Alameda,08/22/2022 11:15,Total Dissolved Solids,264,2.5,mg/L,1,Normal
+Alameda,08/26/2020 10:39,Total Dissolved Solids,218,1.0,mg/L,1,Normal
+Alameda,09/13/2004 12:30,Total Dissolved Solids,228,1.0,mg/L,1,Normal
+Alameda,09/13/2010 14:00,Total Dissolved Solids,285,1.0,mg/L,1,Normal
+Alameda,09/13/2021 12:10,Total Dissolved Solids,347,2.5,mg/L,1,Normal
+Alameda,09/14/2009 11:05,Total Dissolved Solids,289,1.0,mg/L,1,Normal
+Alameda,09/14/2015 10:20,Total Dissolved Solids,382,1.0,mg/L,1,Normal
+Alameda,09/15/1999 08:50,Total Dissolved Solids,218,1.0,mg/L,1,Normal
+Alameda,09/15/2014 10:55,Total Dissolved Solids,313,1.0,mg/L,1,Normal
+Alameda,09/16/1998 09:30,Total Dissolved Solids,139,1.0,mg/L,1,Normal
+Alameda,09/16/2003 10:20,Total Dissolved Solids,202,1.0,mg/L,1,Normal
+Alameda,09/16/2008 12:30,Total Dissolved Solids,323,1.0,mg/L,1,Normal
+Alameda,09/16/2013 15:15,Total Dissolved Solids,338,1.0,mg/L,1,Normal
+Alameda,09/16/2019 11:20,Total Dissolved Solids,105,1.0,mg/L,1,Normal
+Alameda,09/16/2020 10:45,Total Dissolved Solids,332,1.0,mg/L,1,Normal
+Alameda,09/17/1997 12:00,Total Dissolved Solids,148,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/17/2007 12:15,Total Dissolved Solids,358,1.0,mg/L,1,Normal
+Alameda,09/17/2018 11:40,Total Dissolved Solids,324,1.0,mg/L,1,Normal
+Alameda,09/18/2002 08:10,Total Dissolved Solids,388,1.0,mg/L,1,Normal
+Alameda,09/18/2006 12:00,Total Dissolved Solids,146,1.0,mg/L,1,Normal
+Alameda,09/18/2012 12:50,Total Dissolved Solids,328,1.0,mg/L,1,Normal
+Alameda,09/18/2017 11:20,Total Dissolved Solids,111,1.0,mg/L,1,Normal
+Alameda,09/19/2001 08:35,Total Dissolved Solids,383,1.0,mg/L,1,Normal
+Alameda,09/19/2005 12:20,Total Dissolved Solids,216,1.0,mg/L,1,Normal
+Alameda,09/19/2011 14:45,Total Dissolved Solids,114,1.0,mg/L,1,Normal
+Alameda,09/19/2016 09:25,Total Dissolved Solids,317,1.0,mg/L,1,Normal
+Alameda,09/19/2022 11:55,Total Dissolved Solids,238,2.5,mg/L,1,Normal
+Alameda,09/20/2000 09:25,Total Dissolved Solids,188,1.0,mg/L,1,Normal
+Alameda,10/13/2014 11:05,Total Dissolved Solids,334,1.0,mg/L,1,Normal
+Alameda,10/14/2003 10:50,Total Dissolved Solids,299,1.0,mg/L,1,Normal
+Alameda,10/14/2008 12:05,Total Dissolved Solids,320,1.0,mg/L,1,Normal
+Alameda,10/14/2019 11:35,Total Dissolved Solids,110,1.0,mg/L,1,Normal
+Alameda,10/15/1997 12:00,Total Dissolved Solids,259,0.1,mg/L at 180 °C,1,Normal
+Alameda,10/15/2007 12:45,Total Dissolved Solids,292,1.0,mg/L,1,Normal
+Alameda,10/15/2018 12:10,Total Dissolved Solids,308,1.0,mg/L,1,Normal
+Alameda,10/16/2002 08:40,Total Dissolved Solids,416,1.0,mg/L,1,Normal
+Alameda,10/16/2006 12:40,Total Dissolved Solids,141,1.0,mg/L,1,Normal
+Alameda,10/16/2012 12:55,Total Dissolved Solids,286,1.0,mg/L,1,Normal
+Alameda,10/16/2017 12:35,Total Dissolved Solids,107,1.0,mg/L,1,Normal
+Alameda,10/17/2001 11:15,Total Dissolved Solids,362,1.0,mg/L,1,Normal
+Alameda,10/17/2011 12:00,Total Dissolved Solids,115,1.0,mg/L,1,Normal
+Alameda,10/17/2016 09:40,Total Dissolved Solids,318,1.0,mg/L,1,Normal
+Alameda,10/17/2022 12:15,Total Dissolved Solids,258,2.5,mg/L,1,Normal
+Alameda,10/18/2000 10:25,Total Dissolved Solids,254,1.0,mg/L,1,Normal
+Alameda,10/18/2005 12:00,Total Dissolved Solids,192,1.0,mg/L,1,Normal
+Alameda,10/18/2010 14:20,Total Dissolved Solids,265,1.0,mg/L,1,Normal
+Alameda,10/18/2021 13:00,Total Dissolved Solids,298,2.5,mg/L,1,Normal
+Alameda,10/19/2004 12:00,Total Dissolved Solids,314,1.0,mg/L,1,Normal
+Alameda,10/19/2009 12:45,Total Dissolved Solids,288,1.0,mg/L,1,Normal
+Alameda,10/19/2015 10:10,Total Dissolved Solids,365,1.0,mg/L,1,Normal
+Alameda,10/19/2020 12:05,Total Dissolved Solids,288,1.0,mg/L,1,Normal
+Alameda,10/20/1999 08:10,Total Dissolved Solids,272,1.0,mg/L,1,Normal
+Alameda,10/21/1998 08:15,Total Dissolved Solids,132,1.0,mg/L,1,Normal
+Alameda,10/21/2013 11:30,Total Dissolved Solids,280,1.0,mg/L,1,Normal
+Alameda,11/13/2006 13:00,Total Dissolved Solids,179,1.0,mg/L,1,Normal
+Alameda,11/13/2007 12:35,Total Dissolved Solids,282,1.0,mg/L,1,Normal
+Alameda,11/13/2012 13:20,Total Dissolved Solids,266,1.0,mg/L,1,Normal
+Alameda,11/13/2017 13:35,Total Dissolved Solids,133,1.0,mg/L,1,Normal
+Alameda,11/13/2018 12:50,Total Dissolved Solids,292,1.0,mg/L,1,Normal
+Alameda,11/14/2005 12:15,Total Dissolved Solids,243,1.0,mg/L,1,Normal
+Alameda,11/14/2016 10:40,Total Dissolved Solids,325,1.0,mg/L,1,Normal
+Alameda,11/14/2022 12:50,Total Dissolved Solids,292,2.5,mg/L,1,Normal
+Alameda,11/15/2000 10:30,Total Dissolved Solids,275,1.0,mg/L,1,Normal
+Alameda,11/15/2004 12:10,Total Dissolved Solids,225,1.0,mg/L,1,Normal
+Alameda,11/15/2021 13:20,Total Dissolved Solids,285,2.5,mg/L,1,Normal
+Alameda,11/16/2015 12:50,Total Dissolved Solids,402,1.0,mg/L,1,Normal
+Alameda,11/16/2020 13:25,Total Dissolved Solids,297,2.5,mg/L,1,Normal
+Alameda,11/17/1999 09:30,Total Dissolved Solids,238,1.0,mg/L,1,Normal
+Alameda,11/17/2014 10:35,Total Dissolved Solids,370,1.0,mg/L,1,Normal
+Alameda,11/18/1998 10:20,Total Dissolved Solids,139,1.0,mg/L,1,Normal
+Alameda,11/18/2013 11:15,Total Dissolved Solids,306,1.0,mg/L,1,Normal
+Alameda,11/18/2019 12:30,Total Dissolved Solids,160,1.0,mg/L,1,Normal
+Alameda,11/19/1997 12:00,Total Dissolved Solids,285,0.1,mg/L at 180 °C,1,Normal
+Alameda,12/12/2005 12:30,Total Dissolved Solids,328,1.0,mg/L,1,Normal
+Alameda,12/13/2004 12:00,Total Dissolved Solids,279,1.0,mg/L,1,Normal
+Alameda,12/13/2021 12:15,Total Dissolved Solids,277,2.5,mg/L,1,Normal
+Alameda,12/14/2015 12:30,Total Dissolved Solids,401,1.0,mg/L,1,Normal
+Alameda,12/14/2020 12:50,Total Dissolved Solids,361,2.5,mg/L,1,Normal
+Alameda,12/15/1999 08:20,Total Dissolved Solids,386,1.0,mg/L,1,Normal
+Alameda,12/15/2014 10:35,Total Dissolved Solids,339,1.0,mg/L,1,Normal
+Alameda,12/15/2014 10:35,Total Dissolved Solids,340,1.0,mg/L,1,Normal
+Alameda,12/16/1998 10:55,Total Dissolved Solids,247,1.0,mg/L,1,Normal
+Alameda,12/16/2003 10:20,Total Dissolved Solids,392,1.0,mg/L,1,Normal
+Alameda,12/16/2013 11:05,Total Dissolved Solids,373,1.0,mg/L,1,Normal
+Alameda,12/16/2019 13:55,Total Dissolved Solids,183,1.0,mg/L,1,Normal
+Alameda,12/17/2007 12:05,Total Dissolved Solids,282,1.0,mg/L,1,Normal
+Alameda,12/17/2018 12:50,Total Dissolved Solids,342,1.0,mg/L,1,Normal
+Alameda,12/18/2002 09:00,Total Dissolved Solids,324,1.0,mg/L,1,Normal
+Alameda,12/18/2006 12:30,Total Dissolved Solids,263,1.0,mg/L,1,Normal
+Alameda,12/18/2012 14:00,Total Dissolved Solids,218,1.0,mg/L,1,Normal
+Alameda,12/18/2017 12:25,Total Dissolved Solids,210,1.0,mg/L,1,Normal
+Alameda,12/19/2022 12:15,Total Dissolved Solids,356,2.5,mg/L,1,Normal
+Alameda,12/20/2000 11:30,Total Dissolved Solids,317,1.0,mg/L,1,Normal
+Alameda,09/17/1975 10:25,Total Dissolved Solids,193,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/02/1968 10:10,Total Dissolved Solids,448,0.1,mg/L at 180 °C,1,Normal
+Alameda,02/04/1969 15:00,Total Dissolved Solids,124,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/04/1968 10:00,Total Dissolved Solids,202,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/14/1971 10:10,Total Dissolved Solids,166,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/18/1972 10:20,Total Dissolved Solids,236,0.1,mg/L at 180 °C,1,Normal
+Alameda,09/18/1972 10:20,Total Dissolved Solids,236,0.1,mg/L at 180 °C,1,Normal
+Alameda,03/27/2014 11:00,Total Dissolved Solids,1203,1.0,mg/L,1,Normal
+Alameda,02/25/2014 09:35,Total Dissolved Solids,490,1.0,mg/L,1,Normal
+Alameda,03/27/2014 10:00,Total Dissolved Solids,516,1.0,mg/L,1,Normal

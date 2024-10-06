@@ -1,0 +1,79 @@
+.sidebar {
+    width: 276px;
+    height: 1040px; /* Make the sidebar take the full height of its container */
+    background-color: #f6f6fa;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Align buttons at the top */
+  }
+  
+  .tab-button {
+    width: 100%; /* Make the buttons span the entire width */
+    height: 64px; /* Adjust the button height as needed */
+    margin: 0;
+    border: none;
+    cursor: pointer;
+
+    margin-bottom: 10px; /* Add some spacing between buttons */
+    background-color: #f6f6fa;
+    transition: background-color 0.3s; /* Add a transition effect */
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px 30px;
+    color: #333; /* Text color for buttons */
+    font-weight: normal;
+    font-size: 16px; /* Adjust the font size as needed */
+    text-transform: uppercase; /* Uppercase text */
+    letter-spacing: 1px; /* Adjust letter spacing */
+    
+  }
+  
+  .tab-button.active {
+    background-color: #DCD8EB; /* Active button background color */
+    color: #000; /* Active button text color */
+    font-weight: bold; /* Normal font weight for active tab */
+    letter-spacing: 0; /* No letter spacing for active tab */
+    padding: 10px 30px; /* Adjust padding as needed */
+    margin-bottom: 5; /* No margin between active and inactive tabs */
+    border-right: 4px solid #C0BEFB;
+  }
+
+
+  
+  .section-content {
+    margin-top: 20px;
+    color: #333;
+  }
+
+  .selected-div {
+    margin-right: -20px;
+    margin-left: -20px;
+  }
+  
+
+.marginss {
+    margin-top: 200px;
+}
+.logo {
+  width: 50px;
+  height: 50px;
+ 
+  margin-bottom: 30px;
+  background: linear-gradient(to bottom, rgba(255, 192, 203, 0.5), rgba(128, 0, 128, 0.5), rgba(0, 0, 255, 0.5)); 
+  position: relative; /* Relative positioning */
+  z-index: 1; /* z-index to make sure it stays below the image */
+  padding: 10px; /* Padding around the image */
+  border-radius: 50%;
+  border: 5px solid #b188c9; /* Change #000 to any color you prefer */
+}
+
+.logo img {
+  position: relative;
+  z-index: 2; /* Make sure the image appears on top of the background */
+  margin-top: 5px;
+  width: 50px;
+  height: 50px;
+}

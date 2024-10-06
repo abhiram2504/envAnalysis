@@ -1,0 +1,62 @@
+.solution-container {
+  position: absolute;
+  left: 350px;
+  top: 0px;
+  height: 900px;
+  width: 71%;
+  margin-top: 70px;
+  display: grid; /* Use grid layout */
+  grid-template-columns: 1fr 1fr; /* Two equally spaced columns */
+  grid-gap: 20px; /* Gap between the grid items */
+}
+
+.grid-item {
+  background-color: #ffffff; /* Background color for the box */
+  padding: 20px; /* Padding inside the box */
+  border: 5px solid #c0befb; /* 5px thick border with color #c0befb */
+  border-radius: 15px; /* Rounded corners */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* Box shadow */
+  height: 300px;
+  
+  display: flex; /* Use flexbox */
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
+  flex-direction: column; /* Stack child elements vertically */
+}
+
+.grid-item ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.grid-item h2{
+  font-size: 30px;
+
+}
+
+.grid-item ul li {
+  background-color: #e6e6e6;
+  margin: 8px 0;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease; /* Smooth transition for all properties */
+
+  text-align: start; 
+  width: 640px;
+}
+
+/* Hover effect */
+.grid-item ul li:hover {
+  background-color: #e6e6e6; /* Darker background on hover */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* Increased box shadow on hover */
+  transform: scale(1.05); /* Slightly larger scale on hover */
+}
+
+.grid-item ul li:first-child {
+  margin-top: 0;
+}
+
+.grid-item ul li:last-child {
+  margin-bottom: 0;
+}

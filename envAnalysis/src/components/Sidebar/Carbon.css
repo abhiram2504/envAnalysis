@@ -1,0 +1,99 @@
+/* Styles for the main container */
+.carbon-container {
+    position: absolute;
+    left: 350px;
+    top: 0px;
+    height: 90px;
+    width: 71%;
+    margin-top: 70px;
+  }
+
+  
+  /* Styles for section titles */
+.section-title {
+  font-size: 26px;  /* Slightly larger */
+  font-weight: 600;  /* Semi-bold */
+  margin-bottom: 20px;  /* More spacing */
+  color: #333;
+}
+
+/* Styles for section text grid */
+.text-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;  /* Two columns */
+  gap: 20px;  /* Gap between columns and rows */
+}
+
+/* Styles for section text */
+.section-text {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  margin-bottom: 2px;
+  color: #333;
+  background-color: #f9f9f9;  /* Light gray background */
+  padding: 20px;  /* Padding all around */
+  border-radius: 10px;  /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* Initial box-shadow */
+  transition: all 0.3s ease;  /* Transition for hover animation */
+}
+
+/* Hover animation for section text cards */
+.section-text:hover {
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);  /* Darker box-shadow */
+  transform: scale(1.05);  /* Slightly scale the card up */
+}
+  
+  /* Styles for the input section */
+.input-section {
+  display: flex; /* Enable Flexbox */
+  justify-content: space-between; /* Add space between each flex item */
+  align-items: center; /* Center align items vertically */
+}
+
+/* Styles for each input group */
+.input-section > div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Align labels and inputs to the start */
+  margin-top: 20px;
+}
+
+/* Styles for input labels */
+.input-label {
+  font-weight: bold;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+/* Styles for input fields */
+.input-field {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Styles for the calculate button */
+.calculate-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+/* Styles for the calculate button on hover */
+.calculate-button:hover {
+  background-color: #0056b3;
+}
+  
+  /* Styles for the result text */
+  .result-text {
+    font-size: 30px;
+    font-weight: bold;
+  }
+  

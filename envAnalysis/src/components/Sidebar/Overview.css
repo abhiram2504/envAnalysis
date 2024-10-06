@@ -1,0 +1,148 @@
+.stats-container {
+    position: absolute;
+    left: 350px;
+    top: 0px;
+    height: 800px;
+    width: 71%;
+    margin-top: 70px;
+}
+
+.Headings {
+    margin: 10px;
+    margin-top: 27px;
+}
+
+.Heading-text {
+    text-align: left;
+    color: #575353;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+
+
+.phImage1 {
+    width: 800px;
+    height: 600px;
+    margin-top: 35px;
+    border: 5px solid #C0BEFB;
+    border-radius: 20px;
+}
+
+/* Update the CSS for the box class to style the container */
+.box {
+    width: 250.17px;
+    height: 220.52px;
+    background-color: #f6f6fa;
+    margin: 5px;
+    border-radius: 20px;
+    align-content: center;
+    border: 3px solid #F187AB;
+    display: flex;
+    flex-direction: column; /* Arrange content vertically */
+    justify-content: space-between; /* Vertically center content */
+    padding: 10px; /* Add some padding inside the box */
+    text-align: center; /* Center text horizontally */
+}
+
+/* Style the name inside the box */
+.box div {
+    font-size: 18px; /* Set the font size for the name */
+    color: #000; /* Set text color */
+}
+
+
+.box2 {
+    width: 250.17px;
+    height: 220.52px;
+    background-color: #f6f6fa;
+    margin: 5px;
+    border-radius: 20px;
+    align-content: center;
+    border: 3px solid #F187AB;
+    display: flex;
+    flex-direction: column; /* Arrange content vertically */
+    justify-content: space-between; /* Vertically center content */
+    padding: 10px; /* Add some padding inside the box */
+    text-align: center; /* Center text horizontally */
+}
+.box2 div {
+    font-size: 18px; /* Set the font size for the name */
+    color: #000; /* Set text color */
+    margin-left: 8px;
+}
+
+.box3 {
+    width: 250.17px;
+    height: 220.52px;
+    background-color: #f6f6fa;
+    margin: 5px;
+    border-radius: 20px;
+    align-content: center;
+    border: 3px solid #F187AB;
+    display: flex;
+    flex-direction: column; /* Arrange content vertically */
+    justify-content: space-between; /* Vertically center content */
+    padding: 10px; /* Add some padding inside the box */
+    text-align: center; /* Center text horizontally */
+}
+
+.box3 div {
+    font-size: 18px; /* Set the font size for the name */
+    color: #000; /* Set text color */
+    margin-left: 8px;
+}
+.box4 {
+    width: 250.17px;
+    height: 220.52px;
+    background-color: #f6f6fa;
+    margin: 5px;
+    border-radius: 20px;
+    align-content: center;
+    border: 3px solid #F187AB;
+    display: flex;
+    flex-direction: column; /* Arrange content vertically */
+    justify-content: space-between; /* Vertically center content */
+    padding: 10px; /* Add some padding inside the box */
+    text-align: center; /* Center text horizontally */
+    
+}
+
+.box4 div {
+    font-size: 18px; /* Set the font size for the name */
+    color: #000; /* Set text color */
+    margin-left: 8px;
+    
+}
+
+.row1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.row2 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.stats_box {
+    display: flex;
+    flex-direction: row;
+}
+
+.graph-image {
+    width: 506.46px;
+    height: 407.55px;
+  }
+  
+
+  .center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
