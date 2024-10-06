@@ -47,7 +47,7 @@ function Solutions() {
           <p>Educate the campus community on proper waste disposal and waste reduction practices.</p>
         </li>
       </ul>
-      </div>
+      </div> 
       <div class="grid-item">
       <h2>Reducing Electricity Usage:</h2>
       <ul>

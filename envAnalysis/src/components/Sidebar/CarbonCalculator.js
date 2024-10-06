@@ -11,27 +11,32 @@ class CarbonCalculator extends Component {
     };
   }
 
-  handleSubmit = () => {
-    const data = {
-      value1: this.state.value1,
-      value2: this.state.value2,
-    };
+  // Function to calculate carbon emissions based on user input
+  carbonCalculationRes = (v1, v2) => {
+    // Emission factors
+    const emissionFactorElectricity = 0.233; // kg CO2 per kWh
+    const emissionFactorWaste = 2.5; // kg CO2 per kg of waste
 
-    fetch('/calculateEmm', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify(data),
-    })
-      .then((response) => response.json())
-      .then((data) => {
-        this.setState({ result: data.result });
-      })
-      .catch((error) => {
-        console.error('Error:', error);
-      });
+    // Calculate emissions
+    const electricityEmissions = v1 * emissionFactorElectricity; // Emissions from electricity consumption
+    const wasteEmissions = v2 * emissionFactorWaste; // Emissions from waste generation
+
+    // Total emissions
+    const totalEmissions = electricityEmissions + wasteEmissions;
+
+    return totalEmissions; // Return total emissions in kg CO2
   };
+
+  handleSubmit = () => {
+    const { value1, value2 } = this.state;
+
+    // Call the carbonCalculationRes function to get the result
+    const result = this.carbonCalculationRes(Number(value1), Number(value2));
+
+    // Update the result in the state and show it
+    this.setState({ result, resultVisible: true });
+  };
+
 
   render() {
     return (
@@ -73,7 +78,7 @@ class CarbonCalculator extends Component {
               type="number"
               id="kWhInput"
               value={this.state.value1}
-              onChange={(e) => this.setState({ value1: e.target.value })}
+              onChange={(e) => this.setState({ value1: e.Thistarget.value })}
               className="input-field"
             />
           </div>
@@ -87,24 +92,15 @@ class CarbonCalculator extends Component {
               className="input-field"
             />
           </div>
-          <button onClick={() => this.setState({ resultVisible: true })} className="calculate-button"> Calculate Emission </button>
-          
+          <button onClick={this.handleSubmit} className="calculate-button"> Calculate Emission </button>
         </div>
 
-        <p className="section-text">
-            Output: The model's prediction for carbon emissions is returned to the user.
-            {this.state.resultVisible && (
-          <div style={{fontSize: '20px', fontWeight: 'bold'}}>The model predicts: 414769 metric tonnes of CO2</div>
-        )}
-        {this.state.result !== null && (
-          <div className="result-section">
-            <div className="result-text">Estimated Carbon Emissions: {this.state.result.toFixed(2)} kg CO2</div>
+        {this.state.resultVisible && (
+          <div style={{fontSize: '20px', fontWeight: 'bold'}}>
+            The model predicts: {this.state.result ? this.state.result.toFixed(2) : '0'} kg CO2
           </div>
         )}
-          </p>
-        
       </div>
-
     );
   }
 }
